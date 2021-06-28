@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="HOCR">
+</Property><Property Name="Solution File" Value="C:\Users\Mamaniv\documents\visual studio 2010\Projects\HOCR\HOCR.sln">
+</Property><Property Name="Date" Value="שבת 26 מרץ 2011">
+</Property><Property Name="Time" Value="07:44:15">
+</Property></Properties><Event ErrorLevel="0" Project="ShapeContext" Source="..\..\..\..\Desktop\ShapeContextProjects\ShapeContext\ShapeContext.csproj" Description="Project file successfully backed up as C:\Users\Mamaniv\documents\visual studio 2010\Projects\HOCR\Backup\ShapeContext.csproj">
+</Event><Event ErrorLevel="0" Project="ShapeContext" Source="..\..\..\..\Desktop\ShapeContextProjects\ShapeContext\ShapeContext.csproj.user" Description="Project user file successfully backed up as C:\Users\Mamaniv\documents\visual studio 2010\Projects\HOCR\Backup\ShapeContext.csproj.user">
+</Event><Event ErrorLevel="0" Project="ShapeContext" Source="..\..\..\..\Desktop\ShapeContextProjects\ShapeContext\Exceptions.cs" Description="File successfully backed up as C:\Users\Mamaniv\documents\visual studio 2010\Projects\HOCR\Backup\Exceptions.cs">
+</Event><Event ErrorLevel="0" Project="ShapeContext" Source="..\..\..\..\Desktop\ShapeContextProjects\ShapeContext\Histogram.cs" Description="File successfully backed up as C:\Users\Mamaniv\documents\visual studio 2010\Projects\HOCR\Backup\Histogram.cs">
+</Event><Event ErrorLevel="0" Project="ShapeContext" Source="..\..\..\..\Desktop\ShapeContextProjects\ShapeContext\HungarianAlgorithm.cs" Description="File successfully backed up as C:\Users\Mamaniv\documents\visual studio 2010\Projects\HOCR\Backup\HungarianAlgorithm.cs">
+</Event><Event ErrorLevel="0" Project="ShapeContext" Source="..\..\..\..\Desktop\ShapeContextProjects\ShapeContext\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Mamaniv\documents\visual studio 2010\Projects\HOCR\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ShapeContext" Source="..\..\..\..\Desktop\ShapeContextProjects\ShapeContext\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Mamaniv\documents\visual studio 2010\Projects\HOCR\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ShapeContext" Source="..\..\..\..\Desktop\ShapeContextProjects\ShapeContext\ShapeContextMatching.cs" Description="File successfully backed up as C:\Users\Mamaniv\documents\visual studio 2010\Projects\HOCR\Backup\ShapeContextMatching.cs">
+</Event><Event ErrorLevel="0" Project="ShapeContext" Source="..\..\..\..\Desktop\ShapeContextProjects\ShapeContext\TPS.cs" Description="File successfully backed up as C:\Users\Mamaniv\documents\visual studio 2010\Projects\HOCR\Backup\TPS.cs">
+</Event><Event ErrorLevel="0" Project="ShapeContext" Source="..\..\..\..\Desktop\ShapeContextProjects\ShapeContext\Utils.cs" Description="File successfully backed up as C:\Users\Mamaniv\documents\visual studio 2010\Projects\HOCR\Backup\Utils.cs">
+</Event><Event ErrorLevel="0" Project="ShapeContext" Source="..\..\..\..\Desktop\ShapeContextProjects\ShapeContext\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Mamaniv\documents\visual studio 2010\Projects\HOCR\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ShapeContext" Source="..\..\..\..\Desktop\ShapeContextProjects\ShapeContext\ShapeContext.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ShapeContext" Source="..\..\..\..\Desktop\ShapeContextProjects\ShapeContext\ShapeContext.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ShapeContext" Source="..\..\..\..\Desktop\ShapeContextProjects\ShapeContext\ShapeContext.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
