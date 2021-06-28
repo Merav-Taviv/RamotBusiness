@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER1\\Desktop\\EasyForm1\\WebApplication\\WebApplication.csproj": {}
+    "D:\\משפחה\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\WebApplication\\WebApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER1\\Desktop\\EasyForm1\\Common\\Common.csproj": {
+    "D:\\משפחה\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER1\\Desktop\\EasyForm1\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\משפחה\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\USER1\\Desktop\\EasyForm1\\Common\\Common.csproj",
-        "packagesPath": "C:\\Users\\USER1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER1\\Desktop\\EasyForm1\\Common\\obj\\",
+        "projectPath": "D:\\משפחה\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\משפחה\\.nuget\\packages\\",
+        "outputPath": "D:\\משפחה\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\USER1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\משפחה\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -80,24 +80,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\USER1\\Desktop\\EasyForm1\\Repository\\Repository.csproj": {
+    "D:\\משפחה\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER1\\Desktop\\EasyForm1\\Repository\\Repository.csproj",
+        "projectUniqueName": "D:\\משפחה\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\USER1\\Desktop\\EasyForm1\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\USER1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER1\\Desktop\\EasyForm1\\Repository\\obj\\",
+        "projectPath": "D:\\משפחה\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\משפחה\\.nuget\\packages\\",
+        "outputPath": "D:\\משפחה\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\USER1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\משפחה\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -111,8 +111,8 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "C:\\Users\\USER1\\Desktop\\EasyForm1\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\USER1\\Desktop\\EasyForm1\\Common\\Common.csproj"
+              "D:\\משפחה\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\Common\\Common.csproj": {
+                "projectPath": "D:\\משפחה\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\Common\\Common.csproj"
               }
             }
           }
@@ -164,24 +164,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\USER1\\Desktop\\EasyForm1\\Service\\Service.csproj": {
+    "D:\\משפחה\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER1\\Desktop\\EasyForm1\\Service\\Service.csproj",
+        "projectUniqueName": "D:\\משפחה\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\USER1\\Desktop\\EasyForm1\\Service\\Service.csproj",
-        "packagesPath": "C:\\Users\\USER1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER1\\Desktop\\EasyForm1\\Service\\obj\\",
+        "projectPath": "D:\\משפחה\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\משפחה\\.nuget\\packages\\",
+        "outputPath": "D:\\משפחה\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\USER1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\משפחה\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -195,11 +195,11 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "C:\\Users\\USER1\\Desktop\\EasyForm1\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\USER1\\Desktop\\EasyForm1\\Common\\Common.csproj"
+              "D:\\משפחה\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\Common\\Common.csproj": {
+                "projectPath": "D:\\משפחה\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\Common\\Common.csproj"
               },
-              "C:\\Users\\USER1\\Desktop\\EasyForm1\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\USER1\\Desktop\\EasyForm1\\Repository\\Repository.csproj"
+              "D:\\משפחה\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\Repository\\Repository.csproj": {
+                "projectPath": "D:\\משפחה\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\Repository\\Repository.csproj"
               }
             }
           }
@@ -243,24 +243,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\USER1\\Desktop\\EasyForm1\\WebApplication\\WebApplication.csproj": {
+    "D:\\משפחה\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\WebApplication\\WebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER1\\Desktop\\EasyForm1\\WebApplication\\WebApplication.csproj",
+        "projectUniqueName": "D:\\משפחה\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\WebApplication\\WebApplication.csproj",
         "projectName": "WebApplication",
-        "projectPath": "C:\\Users\\USER1\\Desktop\\EasyForm1\\WebApplication\\WebApplication.csproj",
-        "packagesPath": "C:\\Users\\USER1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER1\\Desktop\\EasyForm1\\WebApplication\\obj\\",
+        "projectPath": "D:\\משפחה\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\WebApplication\\WebApplication.csproj",
+        "packagesPath": "C:\\Users\\משפחה\\.nuget\\packages\\",
+        "outputPath": "D:\\משפחה\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\WebApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\USER1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\משפחה\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -274,11 +274,11 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "C:\\Users\\USER1\\Desktop\\EasyForm1\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\USER1\\Desktop\\EasyForm1\\Common\\Common.csproj"
+              "D:\\משפחה\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\Common\\Common.csproj": {
+                "projectPath": "D:\\משפחה\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\Common\\Common.csproj"
               },
-              "C:\\Users\\USER1\\Desktop\\EasyForm1\\Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\USER1\\Desktop\\EasyForm1\\Service\\Service.csproj"
+              "D:\\משפחה\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\Service\\Service.csproj": {
+                "projectPath": "D:\\משפחה\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\Service\\Service.csproj"
               }
             }
           }
@@ -318,7 +318,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -44,7 +44,7 @@ namespace WebApplication.Controllers
 
         }
         [HttpPost("{files}")]
-        public void AddFiles([FromBody] List <FileCommon> fileCommom)
+        public void AddFiles([FromBody] List <ProviderCommon> fileCommom)
         {
             foreach (var item in fileCommom)
             {

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1JV/Bnik9j8/yg5aJSTB2AYHege55XOUnzTKhEv/3+w36gGgegP5+f9+xE/6Aloa0i3XgYJlAGVOcduIBVQt2A==",
+  "dgSpecHash": "p4WJIsXGwZ2FG2yrXzkNyLfsPSlFa+HGst/iUmXLH9Mtea+mAqoEK2AWztuEcZmaRu6VRYX7Ul6XBu+djpyiLg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER1\\Desktop\\EasyForm1\\aaa\\aaa.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\משפחה\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\aaa\\aaa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\משפחה\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

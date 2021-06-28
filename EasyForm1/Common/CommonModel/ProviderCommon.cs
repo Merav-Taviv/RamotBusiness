@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Common
 {
-    public class FileCommon
+    public class ProviderCommon
     {
         public int FormId { get; set; }
         public int FileId { get; set; }

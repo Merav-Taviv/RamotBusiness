@@ -100,3 +100,15 @@ C:\Users\USER1\Desktop\EasyForm1\Common\obj\Debug\netcoreapp2.1\Common.csproj.Co
 C:\Users\USER1\Desktop\EasyForm1\Common\obj\Debug\netcoreapp2.1\Common.dll
 C:\Users\USER1\Desktop\EasyForm1\Common\obj\Debug\netcoreapp2.1\Common.pdb
 C:\Users\USER1\Desktop\EasyForm1\Common\obj\Debug\netcoreapp2.1\Common.genruntimeconfig.cache
+D:\משפחה\Documents\GitHub\RamotBusiness\EasyForm1\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+D:\משפחה\Documents\GitHub\RamotBusiness\EasyForm1\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.json
+D:\משפחה\Documents\GitHub\RamotBusiness\EasyForm1\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.dev.json
+D:\משפחה\Documents\GitHub\RamotBusiness\EasyForm1\Common\bin\Debug\netcoreapp2.1\Common.dll
+D:\משפחה\Documents\GitHub\RamotBusiness\EasyForm1\Common\bin\Debug\netcoreapp2.1\Common.pdb
+D:\משפחה\Documents\GitHub\RamotBusiness\EasyForm1\Common\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache
+D:\משפחה\Documents\GitHub\RamotBusiness\EasyForm1\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+D:\משפחה\Documents\GitHub\RamotBusiness\EasyForm1\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+D:\משפחה\Documents\GitHub\RamotBusiness\EasyForm1\Common\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+D:\משפחה\Documents\GitHub\RamotBusiness\EasyForm1\Common\obj\Debug\netcoreapp2.1\Common.dll
+D:\משפחה\Documents\GitHub\RamotBusiness\EasyForm1\Common\obj\Debug\netcoreapp2.1\Common.pdb
+D:\משפחה\Documents\GitHub\RamotBusiness\EasyForm1\Common\obj\Debug\netcoreapp2.1\Common.genruntimeconfig.cache

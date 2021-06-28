@@ -16,11 +16,11 @@ namespace Service
         {
             this.repository = repository;
         }
-        public void AddFile(FileCommon fileCommon)
+        public void AddFile(ProviderCommon fileCommon)
         {
-            repository.AddFile(FileMap.MapFileCommonToFiles( fileCommon));
+            repository.AddFile(ProviderMap.MapFileCommonToFiles( fileCommon));
         }
-        public List<FileCommon> GetFilesByForm(int ID)
+        public List<ProviderCommon> GetFilesByForm(int ID)
         {
             return repository.GetFilesByForm(ID);
         }
