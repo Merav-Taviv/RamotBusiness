@@ -38,6 +38,9 @@ namespace Service
         {
             return repository.GetProvidersByCategory(categoryId);
         }
-
+        public List<ProviderCommon> GetProvidersByNeighborhood(string neighborhood)
+        {
+            return repository.GetProvidersByNeighborhood(neighborhood);
+        }
     }
 }
