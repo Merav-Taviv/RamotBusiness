@@ -1,0 +1,121 @@
+c:\users\mamaniv\documents\visual studio 2010\Projects\HOCR\HOCR\bin\Debug\HOCR.exe
+c:\users\mamaniv\documents\visual studio 2010\Projects\HOCR\HOCR\bin\Debug\HOCR.pdb
+c:\users\mamaniv\documents\visual studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mamaniv\documents\visual studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\HOCR.Properties.Resources.resources
+c:\users\mamaniv\documents\visual studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mamaniv\documents\visual studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mamaniv\documents\visual studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\HOCR.exe
+c:\users\mamaniv\documents\visual studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\HOCR.pdb
+C:\Users\Mamaniv\Documents\Visual Studio 2010\Projects\HOCR\HOCR\bin\Debug\HOCR.exe.config
+C:\Users\Mamaniv\Documents\Visual Studio 2010\Projects\HOCR\HOCR\bin\Debug\Cloo.dll
+C:\Users\Mamaniv\Documents\Visual Studio 2010\Projects\HOCR\HOCR\bin\Debug\encog-core-cs.dll
+C:\Users\Mamaniv\Documents\Visual Studio 2010\Projects\HOCR\HOCR\bin\Debug\log4net.dll
+C:\Users\Mamaniv\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Mamaniv\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Mamaniv\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\HOCR.MainForm.resources
+C:\Users\Mamaniv\documents\visual studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\HOCR.TrainingUc.resources
+C:\Users\Mamaniv\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\HOCR.InputBox.resources
+C:\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\bin\Debug\HOCR.exe.config
+C:\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\HOCR.exe
+C:\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\HOCR.pdb
+C:\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\bin\Debug\HOCR.exe
+C:\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\bin\Debug\HOCR.pdb
+C:\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\bin\Debug\CSPD.dll
+C:\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\bin\Debug\encog-core-cs.dll
+C:\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\bin\Debug\log4net.dll
+C:\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\bin\Debug\Cloo.dll
+C:\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\HOCR.InputBox.resources
+C:\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\HOCR.MainForm.resources
+C:\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\HOCR.Properties.Resources.resources
+C:\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\HOCR.TrainingUc.resources
+C:\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\ResGen.write.1.tlog
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\bin\Debug\HOCR.exe.config
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\HOCR.exe
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\HOCR.pdb
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\bin\Debug\HOCR.exe
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\bin\Debug\HOCR.pdb
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\bin\Debug\CSPD.dll
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\bin\Debug\encog-core-cs.dll
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\bin\Debug\log4net.dll
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\bin\Debug\Cloo.dll
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\ResolveAssemblyReference.cache
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\HOCR.InputBox.resources
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\HOCR.MainForm.resources
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\HOCR.Properties.Resources.resources
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\HOCR.TrainingUc.resources
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\GenerateResource.read.1.tlog
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\ResGen.read.1.tlog
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\GenerateResource.write.1.tlog
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Drabkin\Downloads\HOCR_final\HOCR\HOCR\bin\Debug\HOCR.exe.config
+C:\Users\Drabkin\Downloads\HOCR_final\HOCR\HOCR\obj\x86\Debug\HOCR.exe
+C:\Users\Drabkin\Downloads\HOCR_final\HOCR\HOCR\obj\x86\Debug\HOCR.pdb
+D:\קבצי משתמש\Downloads\HOCR\HOCR\bin\Debug\HOCR.exe.config
+D:\קבצי משתמש\Downloads\HOCR\HOCR\obj\x86\Debug\HOCR.exe
+D:\קבצי משתמש\Downloads\HOCR\HOCR\obj\x86\Debug\HOCR.pdb
+D:\קבצי משתמש\Downloads\HOCR\HOCR\bin\Debug\HOCR.exe
+D:\קבצי משתמש\Downloads\HOCR\HOCR\bin\Debug\HOCR.pdb
+D:\קבצי משתמש\Downloads\HOCR\HOCR\bin\Debug\encog-core-cs.dll
+D:\קבצי משתמש\Downloads\HOCR\HOCR\bin\Debug\log4net.dll
+D:\קבצי משתמש\Downloads\HOCR\HOCR\bin\Debug\Cloo.dll
+D:\קבצי משתמש\Downloads\HOCR\HOCR\obj\x86\Debug\HOCR.csprojResolveAssemblyReference.cache
+D:\קבצי משתמש\Downloads\HOCR\HOCR\obj\x86\Debug\HOCR.InputBox.resources
+D:\קבצי משתמש\Downloads\HOCR\HOCR\obj\x86\Debug\HOCR.MainForm.resources
+D:\קבצי משתמש\Downloads\HOCR\HOCR\obj\x86\Debug\HOCR.Properties.Resources.resources
+D:\קבצי משתמש\Downloads\HOCR\HOCR\obj\x86\Debug\HOCR.TrainingUc.resources
+D:\קבצי משתמש\Downloads\HOCR\HOCR\obj\x86\Debug\HOCR.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\כרטיסי אשראי\HOCR\HOCR\bin\Debug\HOCR.exe.config
+C:\Users\1\Desktop\כרטיסי אשראי\HOCR\HOCR\obj\x86\Debug\HOCR.exe
+C:\Users\1\Desktop\כרטיסי אשראי\HOCR\HOCR\obj\x86\Debug\HOCR.pdb
+C:\Users\1\Desktop\כרטיסי אשראי\HOCR\HOCR\bin\Debug\HOCR.exe
+C:\Users\1\Desktop\כרטיסי אשראי\HOCR\HOCR\bin\Debug\HOCR.pdb
+C:\Users\1\Desktop\כרטיסי אשראי\HOCR\HOCR\bin\Debug\encog-core-cs.dll
+C:\Users\1\Desktop\כרטיסי אשראי\HOCR\HOCR\bin\Debug\log4net.dll
+C:\Users\1\Desktop\כרטיסי אשראי\HOCR\HOCR\bin\Debug\Cloo.dll
+C:\Users\1\Desktop\כרטיסי אשראי\HOCR\HOCR\obj\x86\Debug\HOCR.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\כרטיסי אשראי\HOCR\HOCR\obj\x86\Debug\HOCR.InputBox.resources
+C:\Users\1\Desktop\כרטיסי אשראי\HOCR\HOCR\obj\x86\Debug\HOCR.MainForm.resources
+C:\Users\1\Desktop\כרטיסי אשראי\HOCR\HOCR\obj\x86\Debug\HOCR.Properties.Resources.resources
+C:\Users\1\Desktop\כרטיסי אשראי\HOCR\HOCR\obj\x86\Debug\HOCR.TrainingUc.resources
+C:\Users\1\Desktop\כרטיסי אשראי\HOCR\HOCR\obj\x86\Debug\HOCR.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\HOCR\HOCR\bin\Debug\HOCR.exe.config
+C:\Users\1\Desktop\HOCR\HOCR\obj\x86\Debug\HOCR.exe
+C:\Users\1\Desktop\HOCR\HOCR\obj\x86\Debug\HOCR.pdb
+C:\Users\1\Desktop\HOCR\HOCR\bin\Debug\HOCR.exe
+C:\Users\1\Desktop\HOCR\HOCR\bin\Debug\HOCR.pdb
+C:\Users\1\Desktop\HOCR\HOCR\bin\Debug\encog-core-cs.dll
+C:\Users\1\Desktop\HOCR\HOCR\bin\Debug\log4net.dll
+C:\Users\1\Desktop\HOCR\HOCR\bin\Debug\Cloo.dll
+C:\Users\1\Desktop\HOCR\HOCR\obj\x86\Debug\HOCR.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\HOCR\HOCR\obj\x86\Debug\HOCR.Properties.Resources.resources
+C:\Users\1\Desktop\HOCR\HOCR\obj\x86\Debug\HOCR.csproj.GenerateResource.Cache
+C:\Users\This_User\Desktop\hocr\HOCR\bin\Debug\HOCR.exe.config
+C:\Users\This_User\Desktop\hocr\HOCR\bin\Debug\HOCR.exe
+C:\Users\This_User\Desktop\hocr\HOCR\bin\Debug\HOCR.pdb
+C:\Users\This_User\Desktop\hocr\HOCR\bin\Debug\encog-core-cs.dll
+C:\Users\This_User\Desktop\hocr\HOCR\bin\Debug\log4net.dll
+C:\Users\This_User\Desktop\hocr\HOCR\bin\Debug\Cloo.dll
+C:\Users\This_User\Desktop\hocr\HOCR\obj\x86\Debug\HOCR.csprojAssemblyReference.cache
+C:\Users\This_User\Desktop\hocr\HOCR\obj\x86\Debug\HOCR.Properties.Resources.resources
+C:\Users\This_User\Desktop\hocr\HOCR\obj\x86\Debug\HOCR.csproj.GenerateResource.cache
+C:\Users\This_User\Desktop\hocr\HOCR\obj\x86\Debug\HOCR.csproj.CoreCompileInputs.cache
+C:\Users\This_User\Desktop\hocr\HOCR\obj\x86\Debug\HOCR.csproj.CopyComplete
+C:\Users\This_User\Desktop\hocr\HOCR\obj\x86\Debug\HOCR.exe
+C:\Users\This_User\Desktop\hocr\HOCR\obj\x86\Debug\HOCR.pdb
+C:\Users\This_User\Desktop\פרויקט\hocr\HOCR\bin\Debug\HOCR.pdb
+C:\Users\This_User\Desktop\פרויקט\hocr\HOCR\bin\Debug\encog-core-cs.dll
+C:\Users\This_User\Desktop\פרויקט\hocr\HOCR\bin\Debug\log4net.dll
+C:\Users\This_User\Desktop\פרויקט\hocr\HOCR\bin\Debug\Cloo.dll
+C:\Users\This_User\Desktop\פרויקט\hocr\HOCR\obj\x86\Debug\HOCR.csprojAssemblyReference.cache
+C:\Users\This_User\Desktop\פרויקט\hocr\HOCR\obj\x86\Debug\HOCR.Properties.Resources.resources
+C:\Users\This_User\Desktop\פרויקט\hocr\HOCR\obj\x86\Debug\HOCR.csproj.GenerateResource.cache
+C:\Users\This_User\Desktop\פרויקט\hocr\HOCR\obj\x86\Debug\HOCR.csproj.CoreCompileInputs.cache
+C:\Users\This_User\Desktop\פרויקט\hocr\HOCR\obj\x86\Debug\HOCR.csproj.CopyComplete
+C:\Users\This_User\Desktop\פרויקט\hocr\HOCR\obj\x86\Debug\HOCR.pdb
+C:\Users\This_User\Desktop\פרויקט\hocr\HOCR\bin\Debug\HOCR.exe.config
+C:\Users\This_User\Desktop\פרויקט\hocr\HOCR\bin\Debug\HOCR.exe
+C:\Users\This_User\Desktop\פרויקט\hocr\HOCR\obj\x86\Debug\HOCR.exe

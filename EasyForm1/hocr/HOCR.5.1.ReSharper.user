@@ -1,0 +1,1495 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">True</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:InputBox.Designer.cs" caret="653" fromTop="8" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/d:Properties/f:Resources.Designer.cs" caret="0" fromTop="0" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:TrainingUC.resx" caret="0" fromTop="0" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/d:Properties/f:Resources.resx" caret="0" fromTop="0" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.resx" caret="0" fromTop="0" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:InputBox.resx" caret="0" fromTop="0" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:ImageFilter.cs" caret="0" fromTop="0" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:TrainingUC.Designer.cs" caret="54" fromTop="3" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:UnsafeBitmap.cs" caret="791" fromTop="21" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:InputBox.cs" caret="268" fromTop="9" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:TrainingUC.cs" caret="4331" fromTop="23" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:app.config" caret="117" fromTop="3" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:Program.cs" caret="198" fromTop="6" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:TextImageActions.cs" caret="1467" fromTop="3" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:FontActions.cs" caret="9011" fromTop="14" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:FileActions.cs" caret="2511" fromTop="23" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.Designer.cs" caret="234" fromTop="9" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:NeuralNetworkActions.cs" caret="1489" fromTop="15" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="2271" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="37277" fromTop="33" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="36844" fromTop="22" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="28819" fromTop="0" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="28318" fromTop="0" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="26933" fromTop="0" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="23794" fromTop="0" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="23549" fromTop="0" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="23084" fromTop="0" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="22839" fromTop="18" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="18778" fromTop="0" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="18161" fromTop="0" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="17002" fromTop="35" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="15755" fromTop="1" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="47911" fromTop="10" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="47581" fromTop="2" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="13" fromTop="0" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="1905" fromTop="28" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="1905" fromTop="28" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="1905" fromTop="28" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="1905" fromTop="28" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="1905" fromTop="28" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="1905" fromTop="28" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="1905" fromTop="28" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="1905" fromTop="28" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="1905" fromTop="28" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="1905" fromTop="28" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="1905" fromTop="28" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="1908" fromTop="31" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:MainForm.cs" caret="1672" fromTop="19" />
+      <File id="7606496C-E369-4C77-AF1D-A79F09F3BA54/f:NeuralNetworkActions.cs" caret="1591" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="81" />
+      <Item value="static" priority="43" />
+      <Item value="int" priority="180" />
+      <Item value="char" priority="20" />
+      <Item value="for" priority="121" />
+      <Item value="start" priority="9" />
+      <Item value="end" priority="8" />
+      <Item value="bitmap" priority="197" />
+      <Item value="GetLength`0" priority="26" />
+      <Item value="var" priority="385" />
+      <Item value="new" priority="379" />
+      <Item value="bitmapToReturn" priority="3" />
+      <Item value="i" priority="247" />
+      <Item value="return" priority="173" />
+      <Item value="ImageActions`0" priority="7" />
+      <Item value="bounds" priority="62" />
+      <Item value="line" priority="42" />
+      <Item value="enumerator" priority="9" />
+      <Item value="private" priority="95" />
+      <Item value="foreach" priority="103" />
+      <Item value="t" priority="9" />
+      <Item value="height" priority="44" />
+      <Item value="width" priority="45" />
+      <Item value="tempToReturn" priority="3" />
+      <Item value="SystemColors`0" priority="2" />
+      <Item value="SystemColors" priority="0" />
+      <Item value="ColorTranslator`0" priority="3" />
+      <Item value="Copy`0" priority="1" />
+      <Item value="Bitmap`0" priority="154" />
+      <Item value="blackLines" priority="11" />
+      <Item value="CreateBlackLines`0" priority="3" />
+      <Item value="linesNumber" priority="0" />
+      <Item value="IEnumerable" priority="3" />
+      <Item value="SetBounds`0" priority="0" />
+      <Item value="numberOfLines" priority="3" />
+      <Item value="CalcLettersBounds`0" priority="1" />
+      <Item value="number" priority="20" />
+      <Item value="k" priority="10" />
+      <Item value="blackLetter" priority="0" />
+      <Item value="weight" priority="0" />
+      <Item value="image" priority="36" />
+      <Item value="break" priority="4" />
+      <Item value="if" priority="185" />
+      <Item value="else" priority="38" />
+      <Item value="letter" priority="61" />
+      <Item value="CountLetters`0" priority="4" />
+      <Item value="blackline" priority="0" />
+      <Item value="CreateBlackLetters`0" priority="0" />
+      <Item value="TestLabel" priority="4" />
+      <Item value="using" priority="25" />
+      <Item value="System" priority="3" />
+      <Item value="while" priority="20" />
+      <Item value="Color`0" priority="57" />
+      <Item value="color" priority="23" />
+      <Item value="Color" priority="3" />
+      <Item value="KnownColor`0" priority="4" />
+      <Item value="c" priority="1" />
+      <Item value="PictureBox`0" priority="3" />
+      <Item value="TextPicture" priority="0" />
+      <Item value="black" priority="5" />
+      <Item value="white" priority="0" />
+      <Item value="ResultPicture" priority="5" />
+      <Item value="string" priority="84" />
+      <Item value="letterNumber" priority="9" />
+      <Item value="lineNumber" priority="10" />
+      <Item value="FileActions`0" priority="37" />
+      <Item value="path" priority="39" />
+      <Item value="File`0" priority="19" />
+      <Item value="text" priority="20" />
+      <Item value="Stream`0" priority="0" />
+      <Item value="StreamWriter`0" priority="0" />
+      <Item value="writer" priority="1" />
+      <Item value="StreamWriter" priority="0" />
+      <Item value="enumerable" priority="2" />
+      <Item value="TextImageActions`0" priority="41" />
+      <Item value="ImageToBitmap`0" priority="0" />
+      <Item value="size" priority="26" />
+      <Item value="newBitmap" priority="32" />
+      <Item value="BitmapToImage`0" priority="0" />
+      <Item value="PadImage`0" priority="1" />
+      <Item value="newImage" priority="3" />
+      <Item value="GetThreshold`0" priority="2" />
+      <Item value="ThresholdValue" priority="0" />
+      <Item value="const" priority="41" />
+      <Item value="Bitmap" priority="30" />
+      <Item value="numberOfLetters" priority="10" />
+      <Item value="CharToColor`0" priority="0" />
+      <Item value="test" priority="8" />
+      <Item value="Image`0" priority="14" />
+      <Item value="WriteBitmap`0" priority="0" />
+      <Item value="FileInfo`0" priority="4" />
+      <Item value="fileInfo" priority="10" />
+      <Item value="FileInfo" priority="5" />
+      <Item value="Graphics`0" priority="10" />
+      <Item value="graphics" priority="8" />
+      <Item value="Graphics" priority="4" />
+      <Item value="Font`0" priority="12" />
+      <Item value="FontConverter`0" priority="5" />
+      <Item value="SystemFonts`0" priority="0" />
+      <Item value="letterBounds" priority="35" />
+      <Item value="bound" priority="5" />
+      <Item value="Threshold" priority="4" />
+      <Item value="float" priority="1" />
+      <Item value="double" priority="100" />
+      <Item value="LoadBitmap`0" priority="2" />
+      <Item value="Path" priority="4" />
+      <Item value="enum" priority="2" />
+      <Item value="StringFormat`0" priority="2" />
+      <Item value="null" priority="71" />
+      <Item value="folderPath" priority="4" />
+      <Item value="Directory`0" priority="10" />
+      <Item value="void" priority="29" />
+      <Item value="ShowResult`0" priority="2" />
+      <Item value="Encog" priority="18" />
+      <Item value="Neural" priority="10" />
+      <Item value="Networks" priority="8" />
+      <Item value="Layers" priority="0" />
+      <Item value="BasicLayer`0" priority="0" />
+      <Item value="Cloo" priority="0" />
+      <Item value="log4net" priority="1" />
+      <Item value="Appender" priority="0" />
+      <Item value="AdoNetAppender`0" priority="0" />
+      <Item value="Microsoft" priority="1" />
+      <Item value="CSharp" priority="1" />
+      <Item value="CSharpCodeProvider`0" priority="0" />
+      <Item value="LineNumber" priority="3" />
+      <Item value="e" priority="41" />
+      <Item value="try" priority="37" />
+      <Item value="MessageBox`0" priority="52" />
+      <Item value="_linesBounds" priority="1" />
+      <Item value="GetLongLength`0" priority="0" />
+      <Item value="FileDialog`0" priority="2" />
+      <Item value="OpenFileDialog`0" priority="3" />
+      <Item value="OpenFileDialog" priority="0" />
+      <Item value="fd" priority="1" />
+      <Item value="stream" priority="12" />
+      <Item value="fileDialog" priority="2" />
+      <Item value="result" priority="12" />
+      <Item value="true" priority="70" />
+      <Item value="bool" priority="26" />
+      <Item value="false" priority="90" />
+      <Item value="_bitmap" priority="53" />
+      <Item value="_path" priority="1" />
+      <Item value="sender" priority="8" />
+      <Item value="this" priority="37" />
+      <Item value="Height" priority="3" />
+      <Item value="lineBound" priority="0" />
+      <Item value="linesBounds" priority="5" />
+      <Item value="lines" priority="3" />
+      <Item value="linesToReturn" priority="1" />
+      <Item value="IFeatureSupport`0" priority="2" />
+      <Item value="linesAndLettersBitmap" priority="1" />
+      <Item value="numberOfLettersInLine" priority="0" />
+      <Item value="letters" priority="42" />
+      <Item value="Data" priority="1" />
+      <Item value="Basic" priority="0" />
+      <Item value="TrainingError`0" priority="0" />
+      <Item value="Backpropagation`0" priority="3" />
+      <Item value="network" priority="27" />
+      <Item value="CreateNetwork" priority="0" />
+      <Item value="Letter`0" priority="1" />
+      <Item value="InvalidCastException`0" priority="0" />
+      <Item value="case" priority="2" />
+      <Item value="default" priority="0" />
+      <Item value="Path`0" priority="4" />
+      <Item value="ToLetter`0" priority="0" />
+      <Item value="LettersPath" priority="0" />
+      <Item value="di" priority="1" />
+      <Item value="TextData`0" priority="0" />
+      <Item value="textData" priority="1" />
+      <Item value="TextData" priority="0" />
+      <Item value="BasicNetwork`0" priority="11" />
+      <Item value="basicNetwork" priority="5" />
+      <Item value="BasicNetwork" priority="7" />
+      <Item value="LoadImage`0" priority="0" />
+      <Item value="dataSet" priority="2" />
+      <Item value="message" priority="15" />
+      <Item value="epoch" priority="2" />
+      <Item value="_xorInput" priority="1" />
+      <Item value="_xorIdeal" priority="0" />
+      <Item value="InputLanguage`0" priority="1" />
+      <Item value="LetterSize" priority="7" />
+      <Item value="vector" priority="27" />
+      <Item value="outputLayer" priority="1" />
+      <Item value="continue" priority="21" />
+      <Item value="data" priority="17" />
+      <Item value="file" priority="11" />
+      <Item value="str" priority="1" />
+      <Item value="StreamReader`0" priority="0" />
+      <Item value="streamReader" priority="3" />
+      <Item value="StreamReader" priority="1" />
+      <Item value="do" priority="1" />
+      <Item value="Enumerable`0" priority="0" />
+      <Item value="values" priority="1" />
+      <Item value="temp" priority="21" />
+      <Item value="doubleLine" priority="2" />
+      <Item value="NeuralNetworkActions`0" priority="0" />
+      <Item value="ctor" priority="1" />
+      <Item value="_network" priority="26" />
+      <Item value="inputData" priority="12" />
+      <Item value="NeuralNetwork`0" priority="30" />
+      <Item value="inputLayer" priority="1" />
+      <Item value="middleLayer" priority="0" />
+      <Item value="out" priority="0" />
+      <Item value="outputData" priority="2" />
+      <Item value="xorNetwork" priority="1" />
+      <Item value="learnRate" priority="2" />
+      <Item value="pair" priority="5" />
+      <Item value="DataBindings" priority="0" />
+      <Item value="directory" priority="4" />
+      <Item value="directoryFiles" priority="1" />
+      <Item value="Length" priority="89" />
+      <Item value="letterSize" priority="8" />
+      <Item value="samples" priority="2" />
+      <Item value="output" priority="22" />
+      <Item value="directories" priority="2" />
+      <Item value="samplesNumber" priority="0" />
+      <Item value="count" priority="21" />
+      <Item value="GetSamplesNumber`0" priority="1" />
+      <Item value="sample" priority="1" />
+      <Item value="Console`0" priority="2" />
+      <Item value="_letters" priority="20" />
+      <Item value="object" priority="7" />
+      <Item value="BitmapToVector`0" priority="2" />
+      <Item value="input" priority="16" />
+      <Item value="bitmaps" priority="9" />
+      <Item value="SelectMany`3" priority="4" />
+      <Item value="Double`0" priority="2" />
+      <Item value="DeployArray`0" priority="1" />
+      <Item value="vectors" priority="4" />
+      <Item value="d" priority="10" />
+      <Item value="d1" priority="0" />
+      <Item value="Size" priority="4" />
+      <Item value="_dataSet" priority="12" />
+      <Item value="ActivationLOG`0" priority="2" />
+      <Item value="BasicNeuralDataPair`0" priority="2" />
+      <Item value="ActivationSigmoid`0" priority="0" />
+      <Item value="layer" priority="0" />
+      <Item value="inputDataExt" priority="2" />
+      <Item value="lettersData" priority="2" />
+      <Item value="NeuralNetwork" priority="3" />
+      <Item value="fontData" priority="0" />
+      <Item value="_fontNetwork" priority="8" />
+      <Item value="SaveWeights`0" priority="0" />
+      <Item value="train" priority="7" />
+      <Item value="weights" priority="2" />
+      <Item value="nguid" priority="0" />
+      <Item value="byte" priority="1" />
+      <Item value="label2" priority="0" />
+      <Item value="TextResult" priority="28" />
+      <Item value="INeuralDataPair`0" priority="2" />
+      <Item value="INeuralDataSet`0" priority="4" />
+      <Item value="Letters" priority="9" />
+      <Item value="INeuralData`0" priority="2" />
+      <Item value="maximum" priority="3" />
+      <Item value="maximumIndex" priority="1" />
+      <Item value="_networkPath" priority="0" />
+      <Item value="NonSerializedAttribute`0" priority="0" />
+      <Item value="binaryFormatter" priority="1" />
+      <Item value="objectToReturn" priority="0" />
+      <Item value="NetworkPath" priority="1" />
+      <Item value="exception" priority="14" />
+      <Item value="length" priority="4" />
+      <Item value="letterOrSpace" priority="12" />
+      <Item value="totalSpaces" priority="2" />
+      <Item value="averageSpace" priority="0" />
+      <Item value="spaceNumber" priority="1" />
+      <Item value="spaceLength" priority="1" />
+      <Item value="spaces" priority="6" />
+      <Item value="EnvironmentVariableTarget`0" priority="1" />
+      <Item value="newBounds" priority="5" />
+      <Item value="CalcSpaces`0" priority="1" />
+      <Item value="CreateLettersBounds`0" priority="0" />
+      <Item value="List" priority="10" />
+      <Item value="currentSpaces" priority="6" />
+      <Item value="currentBounds" priority="6" />
+      <Item value="currentNewBounds" priority="2" />
+      <Item value="LetterNumber" priority="1" />
+      <Item value="currentLetter" priority="1" />
+      <Item value="SufyanTestClass" priority="0" />
+      <Item value="SerialFor`0" priority="0" />
+      <Item value="obj" priority="0" />
+      <Item value="SerializableAttribute`0" priority="0" />
+      <Item value="Point" priority="4" />
+      <Item value="SourcePicture" priority="26" />
+      <Item value="ShowText`0" priority="2" />
+      <Item value="Width" priority="1" />
+      <Item value="pixel" priority="2" />
+      <Item value="readonly" priority="4" />
+      <Item value="_error" priority="1" />
+      <Item value="TrainingProgressBar" priority="4" />
+      <Item value="Count`1" priority="7" />
+      <Item value="NumberOfElements`0" priority="0" />
+      <Item value="BasicNeuralData`0" priority="3" />
+      <Item value="basicNeuralData" priority="0" />
+      <Item value="BasicNeuralData" priority="0" />
+      <Item value="NullReferenceException`0" priority="0" />
+      <Item value="tempArray" priority="1" />
+      <Item value="tempInput" priority="0" />
+      <Item value="Int16`0" priority="0" />
+      <Item value="AdjustWindow`0" priority="1" />
+      <Item value="Border3DSide`0" priority="0" />
+      <Item value="bf" priority="0" />
+      <Item value="dataset" priority="0" />
+      <Item value="neuralNetwork" priority="0" />
+      <Item value="DataSet" priority="0" />
+      <Item value="Network" priority="0" />
+      <Item value="TrainState" priority="0" />
+      <Item value="Backpropagation" priority="0" />
+      <Item value="ResultLetterText" priority="11" />
+      <Item value="letterId" priority="9" />
+      <Item value="Max`2" priority="3" />
+      <Item value="letterID" priority="0" />
+      <Item value="max" priority="11" />
+      <Item value="FontsComboBox" priority="21" />
+      <Item value="DirectoryInfo`0" priority="0" />
+      <Item value="NetworksFolderPath" priority="1" />
+      <Item value="directoryInfo" priority="1" />
+      <Item value="files" priority="10" />
+      <Item value="Name" priority="0" />
+      <Item value="filesName" priority="3" />
+      <Item value="SelectImage" priority="2" />
+      <Item value="_currentImagePath" priority="7" />
+      <Item value="fontPath" priority="1" />
+      <Item value="Repeats" priority="2" />
+      <Item value="Error" priority="1" />
+      <Item value="repeats" priority="6" />
+      <Item value="momentum" priority="3" />
+      <Item value="ProgressBar" priority="0" />
+      <Item value="ProgressBar`0" priority="3" />
+      <Item value="value" priority="5" />
+      <Item value="MaximumSize" priority="0" />
+      <Item value="Thread`0" priority="13" />
+      <Item value="UpdateProgressBar`0" priority="9" />
+      <Item value="ParameterizedThreadStart" priority="6" />
+      <Item value="ThreadStart" priority="6" />
+      <Item value="Forms" priority="0" />
+      <Item value="delegate" priority="27" />
+      <Item value="thread" priority="14" />
+      <Item value="IsTraining" priority="4" />
+      <Item value="Control`0" priority="5" />
+      <Item value="BeginInvoke`0" priority="5" />
+      <Item value="Delegate`0" priority="1" />
+      <Item value="MainForm`0" priority="9" />
+      <Item value="CSPD" priority="10" />
+      <Item value="CSPD`0" priority="5" />
+      <Item value="cspd" priority="4" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="ShapeDescriptor`0" priority="1" />
+      <Item value="InputLayer" priority="0" />
+      <Item value="Version`0" priority="0" />
+      <Item value="Action" priority="5" />
+      <Item value="Action`0" priority="31" />
+      <Item value="Func" priority="2" />
+      <Item value="func" priority="1" />
+      <Item value="_fontNetworkSd" priority="7" />
+      <Item value="_currentFontPathSd" priority="2" />
+      <Item value="currentFontPath" priority="2" />
+      <Item value="Environment`0" priority="10" />
+      <Item value="fontName" priority="4" />
+      <Item value="outputP" priority="1" />
+      <Item value="_fontNetworkP" priority="11" />
+      <Item value="linesInUse" priority="1" />
+      <Item value="rowsInUse" priority="0" />
+      <Item value="countLines" priority="1" />
+      <Item value="countRows" priority="0" />
+      <Item value="lastCol" priority="1" />
+      <Item value="firstCol" priority="4" />
+      <Item value="lastRow" priority="3" />
+      <Item value="firstRow" priority="3" />
+      <Item value="rowIndex" priority="0" />
+      <Item value="colIndex" priority="0" />
+      <Item value="rowSize" priority="0" />
+      <Item value="ThresholdBetweenLetters" priority="1" />
+      <Item value="ResultLetterPicture" priority="1" />
+      <Item value="FontActions`0" priority="17" />
+      <Item value="as" priority="2" />
+      <Item value="_currentFontPathP" priority="5" />
+      <Item value="TrainTask`0" priority="4" />
+      <Item value="Method" priority="1" />
+      <Item value="Target" priority="0" />
+      <Item value="action" priority="1" />
+      <Item value="_trainAction" priority="0" />
+      <Item value="TrainingUC`0" priority="0" />
+      <Item value="trainingUc" priority="8" />
+      <Item value="TrainingUC" priority="0" />
+      <Item value="error" priority="6" />
+      <Item value="OnFinishTrain`0" priority="0" />
+      <Item value="fontNetworkP" priority="6" />
+      <Item value="fontNetworkSd" priority="3" />
+      <Item value="currentFontPathSd" priority="0" />
+      <Item value="TrainingUc`0" priority="4" />
+      <Item value="TrainingUc" priority="0" />
+      <Item value="DialogResult`0" priority="1" />
+      <Item value="Form`0" priority="4" />
+      <Item value="form" priority="1" />
+      <Item value="Form" priority="1" />
+      <Item value="Container" priority="0" />
+      <Item value="_trainForm" priority="6" />
+      <Item value="_isActive" priority="4" />
+      <Item value="UriIdnScope`0" priority="0" />
+      <Item value="OnFinishTrainP`0" priority="0" />
+      <Item value="IAsyncResult`0" priority="0" />
+      <Item value="asyncResult" priority="1" />
+      <Item value="IterationsP" priority="0" />
+      <Item value="iteration" priority="1" />
+      <Item value="ErrorP" priority="0" />
+      <Item value="ProgressBarP" priority="1" />
+      <Item value="_repeats" priority="1" />
+      <Item value="ProgressBarSd" priority="0" />
+      <Item value="event" priority="3" />
+      <Item value="EventHandler`0" priority="2" />
+      <Item value="EventHandler" priority="0" />
+      <Item value="class" priority="0" />
+      <Item value="EventArgs`0" priority="0" />
+      <Item value="prop" priority="1" />
+      <Item value="UpdateP`0" priority="0" />
+      <Item value="is" priority="0" />
+      <Item value="override" priority="0" />
+      <Item value="NewsStyleUriParser`0" priority="2" />
+      <Item value="IterationChanged" priority="1" />
+      <Item value="TrainArgs" priority="0" />
+      <Item value="Iterations" priority="0" />
+      <Item value="FileStream`0" priority="0" />
+      <Item value="Open" priority="0" />
+      <Item value="Start" priority="2" />
+      <Item value="Stop" priority="2" />
+      <Item value="_activeTrains" priority="2" />
+      <Item value="_activeTrainSd" priority="0" />
+      <Item value="ThresholdB" priority="0" />
+      <Item value="ThresholdA" priority="1" />
+      <Item value="NumericUpDown`0" priority="0" />
+      <Item value="index" priority="6" />
+      <Item value="ShowResultLetterText`0" priority="0" />
+      <Item value="threshold" priority="6" />
+      <Item value="ThresholdTight" priority="1" />
+      <Item value="separate" priority="9" />
+      <Item value="GetLetter`0" priority="5" />
+      <Item value="ThresholdLoose" priority="1" />
+      <Item value="tempNumber" priority="3" />
+      <Item value="tempBounds" priority="9" />
+      <Item value="separates" priority="0" />
+      <Item value="letterBoundsList" priority="2" />
+      <Item value="realIndex" priority="0" />
+      <Item value="Test`0" priority="1" />
+      <Item value="minimalWidth" priority="0" />
+      <Item value="AutoCompleteMode`0" priority="0" />
+      <Item value="finally" priority="1" />
+      <Item value="shift" priority="4" />
+      <Item value="s" priority="0" />
+      <Item value="Centerize`0" priority="3" />
+      <Item value="Loading" priority="17" />
+      <Item value="Visible" priority="1" />
+      <Item value="_loadingAction" priority="0" />
+      <Item value="LoadingVisible`0" priority="0" />
+      <Item value="Clone`0" priority="1" />
+      <Item value="MinimalSuccess" priority="0" />
+      <Item value="ResizeBitmap`0" priority="2" />
+      <Item value="_actionGetText" priority="2" />
+      <Item value="_actionGetTextCallBack" priority="1" />
+      <Item value="Void`0" priority="0" />
+      <Item value="GetText" priority="3" />
+      <Item value="GetTextTask`0" priority="4" />
+      <Item value="Thread" priority="1" />
+      <Item value="Enabled" priority="0" />
+      <Item value="Min`2" priority="0" />
+      <Item value="minP" priority="1" />
+      <Item value="minSd" priority="0" />
+      <Item value="maxP" priority="0" />
+      <Item value="resultSd" priority="0" />
+      <Item value="maxSd" priority="0" />
+      <Item value="MaxLetterResult`0" priority="2" />
+      <Item value="separatedAverageResult" priority="1" />
+      <Item value="tempLetter" priority="0" />
+      <Item value="letterResult" priority="0" />
+      <Item value="FixLetterBounds`0" priority="0" />
+      <Item value="item" priority="9" />
+      <Item value="ContextStaticAttribute`0" priority="0" />
+      <Item value="averageResult" priority="1" />
+      <Item value="maxFont" priority="1" />
+      <Item value="sumResult" priority="0" />
+      <Item value="RestoreWindowState`0" priority="2" />
+      <Item value="gotLetters" priority="0" />
+      <Item value="invoke" priority="0" />
+      <Item value="Invoke`0" priority="1" />
+      <Item value="AsyncCallback`0" priority="0" />
+      <Item value="AutoDetectFontTask`0" priority="2" />
+      <Item value="ar" priority="2" />
+      <Item value="Message" priority="16" />
+      <Item value="ComboBox`0" priority="0" />
+      <Item value="inAction" priority="8" />
+      <Item value="GetNextControl`0" priority="0" />
+      <Item value="TrainNetwork" priority="1" />
+      <Item value="RepairNetwork" priority="0" />
+      <Item value="ShowLetter" priority="0" />
+      <Item value="FontFamily`0" priority="12" />
+      <Item value="FontFamily" priority="4" />
+      <Item value="fontFamily" priority="4" />
+      <Item value="fontFamilies" priority="0" />
+      <Item value="font" priority="14" />
+      <Item value="DrawToBitmap`0" priority="1" />
+      <Item value="Random`0" priority="1" />
+      <Item value="random" priority="1" />
+      <Item value="Random" priority="0" />
+      <Item value="numbers" priority="2" />
+      <Item value="every10" priority="1" />
+      <Item value="Font" priority="2" />
+      <Item value="StandardValuesCollection" priority="0" />
+      <Item value="fontConverter" priority="2" />
+      <Item value="FontConverter" priority="0" />
+      <Item value="CultureInfo" priority="0" />
+      <Item value="MakeAllFonts`0" priority="0" />
+      <Item value="MakeFont`0" priority="0" />
+      <Item value="fontImage" priority="3" />
+      <Item value="families" priority="0" />
+      <Item value="folder" priority="1" />
+      <Item value="countFiles`0" priority="2" />
+      <Item value="Timer`0" priority="0" />
+      <Item value="timer" priority="3" />
+      <Item value="CrossAppDomainDelegate`0" priority="0" />
+      <Item value="timeCount" priority="1" />
+      <Item value="FontStyle`0" priority="9" />
+      <Item value="Bold" priority="1" />
+      <Item value="Regular" priority="3" />
+      <Item value="fontStyle" priority="7" />
+      <Item value="strStyle" priority="2" />
+      <Item value="pathP" priority="0" />
+      <Item value="TrainAllFonts`0" priority="0" />
+      <Item value="TrainNetworkClick`0" priority="2" />
+      <Item value="script" priority="3" />
+      <Item value="_scriptMode" priority="5" />
+      <Item value="StartClick`0" priority="0" />
+      <Item value="CloseReason`0" priority="0" />
+      <Item value="UserControl`0" priority="0" />
+      <Item value="Click" priority="0" />
+      <Item value="KeyPress" priority="0" />
+      <Item value="parantForm" priority="0" />
+      <Item value="_parentForm" priority="2" />
+      <Item value="UpdateFontsComboBox`0" priority="0" />
+      <Item value="ThreadExceptionDialog`0" priority="0" />
+      <Item value="StopClick`0" priority="0" />
+      <Item value="CreateFontImages`0" priority="0" />
+      <Item value="fileCount" priority="0" />
+      <Item value="ScriptProgress" priority="4" />
+      <Item value="_fontName" priority="0" />
+      <Item value="FontName" priority="0" />
+      <Item value="StopScript" priority="0" />
+      <Item value="StopScriptClicked" priority="0" />
+      <Item value="sum" priority="0" />
+      <Item value="GetValue`0" priority="0" />
+      <Item value="CreateAllFontsScript" priority="0" />
+      <Item value="TrainAllScript" priority="0" />
+      <Item value="StopProcess" priority="1" />
+      <Item value="ImageFilter`0" priority="7" />
+      <Item value="imageFilter" priority="1" />
+      <Item value="ImageFilter" priority="0" />
+      <Item value="source" priority="1" />
+      <Item value="angle" priority="0" />
+      <Item value="ShowSource`0" priority="0" />
+      <Item value="throw" priority="2" />
+      <Item value="ex" priority="0" />
+      <Item value="_showAction" priority="0" />
+      <Item value="_cleanAction" priority="0" />
+      <Item value="_rotateAction" priority="2" />
+      <Item value="_rotateFunc" priority="1" />
+      <Item value="main" priority="2" />
+      <Item value="run" priority="0" />
+      <Item value="Action&lt;Bitmap&gt;" priority="0" />
+      <Item value="Rotate" priority="1" />
+      <Item value="j" priority="1" />
+      <Item value="NotImplementedException" priority="0" />
+      <Item value="StatusBar" priority="5" />
+      <Item value="ToolStripTraining" priority="0" />
+      <Item value="ToolStripScript" priority="0" />
+      <Item value="ToolStripFiltering" priority="0" />
+      <Item value="Screen`0" priority="0" />
+      <Item value="MaxWidth" priority="6" />
+      <Item value="MaxHeight" priority="2" />
+      <Item value="EyeOpen" priority="4" />
+      <Item value="Imaging" priority="6" />
+      <Item value="Processing" priority="4" />
+      <Item value="SimilarityImages`0" priority="1" />
+      <Item value="similarityImages" priority="1" />
+      <Item value="SimilarityImages" priority="1" />
+      <Item value="pic1" priority="0" />
+      <Item value="pic2" priority="0" />
+      <Item value="ComparableImage`0" priority="0" />
+      <Item value="similarityImages1" priority="1" />
+      <Item value="RgbProjections`0" priority="1" />
+      <Item value="rgbProjections" priority="1" />
+      <Item value="RgbProjections" priority="2" />
+      <Item value="ImageUtility`0" priority="1" />
+      <Item value="imageUtility" priority="0" />
+      <Item value="FiltersDllDotNet" priority="3" />
+      <Item value="Filters`0" priority="1" />
+      <Item value="FiltersDllImport`0" priority="0" />
+      <Item value="filtersDllImport" priority="1" />
+      <Item value="filters" priority="3" />
+      <Item value="AForge" priority="1" />
+      <Item value="Formats" priority="0" />
+      <Item value="Neuro" priority="0" />
+      <Item value="HoughLine`0" priority="0" />
+      <Item value="houghLine" priority="2" />
+      <Item value="HoughLine" priority="1" />
+      <Item value="RGB`0" priority="0" />
+      <Item value="newWidth" priority="1" />
+      <Item value="maxWidth" priority="1" />
+      <Item value="newHeight" priority="0" />
+      <Item value="TSRD" priority="4" />
+      <Item value="TSRD`0" priority="2" />
+      <Item value="Application`0" priority="10" />
+      <Item value="tsrd" priority="3" />
+      <Item value="Format24bppRgb" priority="8" />
+      <Item value="PixelFormat`0" priority="3" />
+      <Item value="newBitmaps" priority="2" />
+      <Item value="RotateFlipType`0" priority="0" />
+      <Item value="tempImage" priority="2" />
+      <Item value="pixelFormat" priority="0" />
+      <Item value="tempBitmap" priority="0" />
+      <Item value="tempResult" priority="0" />
+      <Item value="UseBSP" priority="1" />
+      <Item value="UseCoG" priority="1" />
+      <Item value="UseDGF" priority="2" />
+      <Item value="UseTSP" priority="1" />
+      <Item value="UseUGF" priority="3" />
+      <Item value="UseVP" priority="1" />
+      <Item value="UseWAD" priority="1" />
+      <Item value="UseWHR" priority="2" />
+      <Item value="descriptor" priority="0" />
+      <Item value="tempVector" priority="0" />
+      <Item value="switch" priority="0" />
+      <Item value="ShapeContextMatching`0" priority="0" />
+      <Item value="shapeContextMatching" priority="1" />
+      <Item value="ShapeContextMatching" priority="2" />
+      <Item value="ShapeContext" priority="0" />
+      <Item value="Histogram`0" priority="0" />
+      <Item value="Point`0" priority="0" />
+      <Item value="Format1bppIndexed" priority="0" />
+      <Item value="KnownColor" priority="0" />
+      <Item value="Math`0" priority="1" />
+      <Item value="InputBox`0" priority="1" />
+      <Item value="Close`0" priority="4" />
+      <Item value="String`0" priority="1" />
+      <Item value="Result" priority="0" />
+      <Item value="Input" priority="0" />
+      <Item value="inputbox" priority="1" />
+      <Item value="OK" priority="1" />
+      <Item value="Cancel" priority="0" />
+      <Item value="InitializeComponent`0" priority="0" />
+      <Item value="Text" priority="0" />
+      <Item value="dataShapeDescriptor" priority="0" />
+      <Item value="dataPixels" priority="0" />
+      <Item value="name" priority="1" />
+      <Item value="iTextSharp" priority="2" />
+      <Item value="pdf" priority="1" />
+      <Item value="ExtractImagesFromPdf`0" priority="0" />
+      <Item value="trainNetworkToolStripMenuItem" priority="0" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="outputSd" priority="0" />
+      <Item value="NotFiniteNumberException`0" priority="0" />
+      <Item value="items" priority="3" />
+      <Item value="maxLine" priority="0" />
+      <Item value="g" priority="1" />
+      <Item value="newLine" priority="1" />
+      <Item value="InAction`0" priority="3" />
+      <Item value="MainMenuStrip" priority="0" />
+      <Item value="parameters" priority="5" />
+      <Item value="IsGreaterThanThreshold`0" priority="0" />
+      <Item value="FindFirstRowIndex`0" priority="0" />
+      <Item value="FindLastRowIndex`0" priority="0" />
+      <Item value="lettersParameters" priority="2" />
+      <Item value="lettersRezised" priority="0" />
+      <Item value="lettersResizeed" priority="0" />
+      <Item value="T`0" priority="1" />
+      <Item value="array1" priority="4" />
+      <Item value="newArray" priority="5" />
+      <Item value="array" priority="0" />
+      <Item value="T" priority="0" />
+      <Item value="array2" priority="3" />
+      <Item value="Union`1" priority="1" />
+      <Item value="MidpointRounding`0" priority="0" />
+      <Item value="Pixels`0" priority="1" />
+      <Item value="fontR" priority="0" />
+      <Item value="rand" priority="1" />
+      <Item value="direction" priority="1" />
+      <Item value="x" priority="2" />
+      <Item value="y" priority="1" />
+      <Item value="InvertColor`0" priority="0" />
+      <Item value="numberOfNoiseSamples" priority="2" />
+      <Item value="newLetters" priority="7" />
+      <Item value="countDeadLock" priority="1" />
+      <Item value="TrainTaskP`0" priority="0" />
+      <Item value="_currentPage" priority="3" />
+      <Item value="FrameDimension`0" priority="10" />
+      <Item value="PageNext" priority="2" />
+      <Item value="visibility" priority="1" />
+      <Item value="PagePrev" priority="3" />
+      <Item value="ShowPagesButtons`0" priority="0" />
+      <Item value="UnsafeBitmap" priority="3" />
+      <Item value="UnsafeBitmap`0" priority="12" />
+      <Item value="_bitmapData" priority="0" />
+      <Item value="Drawing" priority="1" />
+      <Item value="PixelData" priority="2" />
+      <Item value="Byte`0" priority="0" />
+      <Item value="PixelData`0" priority="1" />
+      <Item value="Colors`0" priority="0" />
+      <Item value="Blue" priority="1" />
+      <Item value="Red" priority="0" />
+      <Item value="Green" priority="0" />
+      <Item value="oldBitmap" priority="0" />
+      <Item value="mid" priority="0" />
+      <Item value="answer" priority="2" />
+      <Item value="fileName" priority="0" />
+      <Item value="ResultsPath" priority="0" />
+      <Item value="imagePath" priority="1" />
+      <Item value="newText" priority="2" />
+      <Item value="pageNumber" priority="3" />
+      <Item value="PageNextClick`0" priority="0" />
+      <Item value="successPages" priority="0" />
+      <Item value="Any`1" priority="0" />
+      <Item value="isAllTrue" priority="2" />
+      <Item value="page" priority="0" />
+      <Item value="get" priority="1" />
+      <Item value="_width" priority="0" />
+      <Item value="set" priority="1" />
+      <Item value="PixelAt`0" priority="0" />
+      <Item value="pixelData" priority="2" />
+      <Item value="returnValue" priority="1" />
+      <Item value="R" priority="0" />
+      <Item value="G" priority="0" />
+      <Item value="PageNumber" priority="3" />
+      <Item value="numberOfPages" priority="0" />
+      <Item value="catch" priority="1" />
+      <Item value="OutOfMemoryException`0" priority="1" />
+      <Item value="OutOfMemoryException" priority="0" />
+      <Item value="ThreadPool`0" priority="0" />
+      <Item value="GetLinesBounds`0" priority="0" />
+      <Item value="forr" priority="0" />
+      <Item value="allLettersBounds" priority="3" />
+      <Item value="GetLine`0" priority="0" />
+      <Item value="GetLettersBounds`0" priority="1" />
+      <Item value="allLetterBounds" priority="2" />
+      <Item value="lineBounds" priority="7" />
+      <Item value="_letterBounds" priority="2" />
+      <Item value="BackPictureBox" priority="1" />
+      <Item value="Binding`0" priority="2" />
+      <Item value="_binding" priority="0" />
+      <Item value="_markedLine" priority="0" />
+      <Item value="_picture" priority="4" />
+      <Item value="tempI" priority="1" />
+      <Item value="global" priority="0" />
+      <Item value="GetAllLettersBounds`0" priority="0" />
+      <Item value="UriParser`0" priority="0" />
+      <Item value="right" priority="1" />
+      <Item value="up" priority="1" />
+      <Item value="down" priority="0" />
+      <Item value="left" priority="1" />
+      <Item value="List&lt;List&lt;int[]&gt;&gt;" priority="0" />
+      <Item value="List&lt;int[]&gt;" priority="0" />
+      <Item value="bigLetterBounds" priority="0" />
+      <Item value="ToList`1" priority="0" />
+      <Item value="converted" priority="3" />
+      <Item value="unsafeBitmap" priority="0" />
+      <Item value="TabIndexChanged" priority="0" />
+      <Item value="ConvertToLinesBounds`0" priority="0" />
+      <Item value="_activeTrain" priority="0" />
+      <Item value="_currentFontPath" priority="1" />
+      <Item value="LettersOfInitial" priority="1" />
+      <Item value="LettersInNetwork" priority="0" />
+      <Item value="spaceStart" priority="2" />
+      <Item value="spaceEnd" priority="2" />
+      <Item value="currentLetterBounds" priority="1" />
+      <Item value="RotateTask`0" priority="0" />
+      <Item value="Training" priority="0" />
+      <Item value="Propagation" priority="0" />
+      <Item value="Resilient" priority="0" />
+      <Item value="ResilientPropagation`0" priority="0" />
+      <Item value="StatusBarProgress" priority="4" />
+      <Item value="_markedLetter" priority="0" />
+      <Item value="_markedIndex" priority="0" />
+      <Item value="local" priority="0" />
+      <Item value="fonts" priority="0" />
+      <Item value="ListBindingConverter`0" priority="0" />
+      <Item value="_trained" priority="3" />
+      <Item value="Marquee" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@HOCR.ImageActions">
+      <Item value="GetNextLine`0" priority="0" />
+      <Item value="GetLine`0" priority="0" />
+      <Item value="CreateBlackLetters`0" priority="0" />
+      <Item value="GetLetter`0" priority="0" />
+      <Item value="GetLettersBounds`0" priority="0" />
+      <Item value="CreateBlackLines`0" priority="1" />
+      <Item value="CountLetters`0" priority="0" />
+      <Item value="BitmapToImage`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="GetEnumerator`0" priority="6" />
+      <Item value="Count`1" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerator`1">
+      <Item value="Current" priority="8" />
+      <Item value="MoveNext`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.ColorTranslator">
+      <Item value="FromWin32`0" priority="1" />
+      <Item value="FromHtml`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Location" priority="5" />
+      <Item value="Text" priority="21" />
+      <Item value="Visible" priority="14" />
+      <Item value="Refresh`0" priority="0" />
+      <Item value="BeginInvoke`0" priority="2" />
+      <Item value="Invoke`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Point">
+      <Item value="X" priority="5" />
+      <Item value="Offset`0" priority="0" />
+      <Item value="Y" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Bitmap">
+      <Item value="Width" priority="49" />
+      <Item value="Height" priority="43" />
+      <Item value="SetPixel`0" priority="26" />
+      <Item value="GetPixel`0" priority="36" />
+      <Item value="Clone`0" priority="6" />
+      <Item value="GetThumbnailImage`0" priority="0" />
+      <Item value="Save`0" priority="1" />
+      <Item value="PixelFormat" priority="4" />
+      <Item value="RotateFlip`0" priority="0" />
+      <Item value="InitializeLifetimeService`0" priority="0" />
+      <Item value="AddNoise`0" priority="0" />
+      <Item value="GetFrameCount`0" priority="8" />
+      <Item value="SelectActiveFrame`0" priority="1" />
+      <Item value="UnlockBits`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.KnownColor">
+      <Item value="White" priority="1" />
+      <Item value="Black" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Bitmap">
+      <Item value="GetPixelFormatSize`0" priority="0" />
+      <Item value="FromFile`0" priority="1" />
+      <Item value="GetThumbnailImageAbort`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.PictureBox">
+      <Item value="Image" priority="20" />
+      <Item value="Width" priority="5" />
+      <Item value="Height" priority="2" />
+      <Item value="Location" priority="3" />
+      <Item value="Size" priority="4" />
+      <Item value="BeginInvoke`0" priority="0" />
+      <Item value="Refresh`0" priority="0" />
+      <Item value="Visible" priority="1" />
+      <Item value="BindingContext" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="20" />
+      <Item value="Copy`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Create`0" priority="2" />
+      <Item value="WriteAllText`0" priority="2" />
+      <Item value="ReadAllText`0" priority="3" />
+      <Item value="ReadLines`0" priority="0" />
+      <Item value="WriteAllBytes`0" priority="1" />
+      <Item value="OpenRead`0" priority="1" />
+      <Item value="OpenWrite`0" priority="1" />
+      <Item value="Exists`0" priority="0" />
+      <Item value="Open`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="ToString`0" priority="1" />
+      <Item value="Append`0" priority="1" />
+      <Item value="AppendLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@HOCR.FileActions">
+      <Item value="WriteBitmap`0" priority="0" />
+      <Item value="ReadBitmap`0" priority="0" />
+      <Item value="GetFontName`0" priority="0" />
+      <Item value="AbcTest`0" priority="1" />
+      <Item value="OutputTest`0" priority="0" />
+      <Item value="CreateLettersData`0" priority="0" />
+      <Item value="ReadFromFile`0" priority="0" />
+      <Item value="RetrieveText`0" priority="0" />
+      <Item value="NumberOfElements`0" priority="2" />
+      <Item value="SaveNetwork`0" priority="1" />
+      <Item value="ObjectToFile`0" priority="0" />
+      <Item value="CreateLetterData`0" priority="0" />
+      <Item value="BitmapToVector`0" priority="3" />
+      <Item value="ShapeDescriptor`0" priority="1" />
+      <Item value="DeployArray`0" priority="0" />
+      <Item value="IsSpace`0" priority="1" />
+      <Item value="LoadNetwork`0" priority="0" />
+      <Item value="ResultsPath" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamWriter">
+      <Item value="Write`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Length" priority="22" />
+      <Item value="LastIndexOf`0" priority="0" />
+      <Item value="Remove`0" priority="13" />
+      <Item value="Insert`0" priority="8" />
+      <Item value="IndexOf`0" priority="0" />
+      <Item value="Replace`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@HOCR.TextImageActions">
+      <Item value="BitmapToImage`0" priority="1" />
+      <Item value="ResizeBitmap`0" priority="2" />
+      <Item value="ImageToBitmap`0" priority="0" />
+      <Item value="PadImage`0" priority="1" />
+      <Item value="CreateBlackLines`0" priority="2" />
+      <Item value="Copy`0" priority="0" />
+      <Item value="GetThreshold`0" priority="3" />
+      <Item value="GetLettersBounds`0" priority="0" />
+      <Item value="GetLetter`0" priority="0" />
+      <Item value="IsGreaterThanThreshold`0" priority="3" />
+      <Item value="RetrieveText`0" priority="0" />
+      <Item value="Centerize`0" priority="1" />
+      <Item value="WhiteBitmap`0" priority="2" />
+      <Item value="GetLetterParameters`0" priority="1" />
+      <Item value="AddNoise`0" priority="3" />
+      <Item value="ConvertTo24`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="White" priority="31" />
+      <Item value="Black" priority="20" />
+      <Item value="Green" priority="0" />
+      <Item value="Red" priority="2" />
+      <Item value="Blue" priority="0" />
+      <Item value="FromArgb`0" priority="2" />
+      <Item value="FromKnownColor`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Color">
+      <Item value="Name" priority="4" />
+      <Item value="ToArgb`0" priority="12" />
+      <Item value="GetBrightness`0" priority="13" />
+      <Item value="R" priority="2" />
+      <Item value="G" priority="0" />
+      <Item value="B" priority="1" />
+      <Item value="A" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Graphics">
+      <Item value="DrawImageAbort`0" priority="0" />
+      <Item value="FromImage`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.FontConverter">
+      <Item value="FontNameConverter`0" priority="3" />
+      <Item value="StandardValuesCollection`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.SystemFonts">
+      <Item value="GetFontByName`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Font">
+      <Item value="FromHdc`0" priority="0" />
+      <Item value="from" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.FontConverter+FontNameConverter">
+      <Item value="StandardValuesCollection`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileInfo">
+      <Item value="Create`0" priority="0" />
+      <Item value="Extension" priority="1" />
+      <Item value="OpenRead`0" priority="0" />
+      <Item value="OpenWrite`0" priority="0" />
+      <Item value="Name" priority="5" />
+      <Item value="Length" priority="1" />
+      <Item value="ToString`0" priority="2" />
+      <Item value="FullName" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Directory">
+      <Item value="CreateDirectory`0" priority="3" />
+      <Item value="GetFiles`0" priority="3" />
+      <Item value="GetDirectories`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="17" />
+      <Item value="Enabled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="4" />
+      <Item value="TryParse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.OpenFileDialog">
+      <Item value="OpenFile`0" priority="2" />
+      <Item value="FileName" priority="1" />
+      <Item value="ShowDialog`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@HOCR.FontFolder">
+      <Item value="CreateFontFolderFromLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HOCR.MainForm">
+      <Item value="Width" priority="2" />
+      <Item value="BeginInvoke`0" priority="3" />
+      <Item value="LoadingVisible`0" priority="0" />
+      <Item value="Enabled" priority="1" />
+      <Item value="Refresh`0" priority="0" />
+      <Item value="TopMost" priority="0" />
+      <Item value="Closing" priority="0" />
+      <Item value="Close`0" priority="1" />
+      <Item value="StatusBar" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="19" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Encog.Neural.Networks.BasicNetwork">
+      <Item value="AddLayer`0" priority="0" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="Reset`0" priority="0" />
+      <Item value="WeightMatrixSize" priority="1" />
+      <Item value="BiasActivation" priority="0" />
+      <Item value="collection" priority="1" />
+      <Item value="Collection" priority="0" />
+      <Item value="Compute`0" priority="3" />
+      <Item value="Description" priority="0" />
+      <Item value="DumpWeights`0" priority="1" />
+      <Item value="Structure" priority="13" />
+      <Item value="GetPropertyDouble`0" priority="0" />
+      <Item value="Properties" priority="0" />
+      <Item value="Logic" priority="0" />
+      <Item value="Name" priority="0" />
+      <Item value="InputCount" priority="0" />
+      <Item value="GetLayer`0" priority="0" />
+      <Item value="Clone`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Char">
+      <Item value="ToString`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Double">
+      <Item value="Parse`0" priority="1" />
+      <Item value="IsNaN`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="ReadLine`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="9" />
+      <Item value="ToArray`0" priority="3" />
+      <Item value="Insert`0" priority="0" />
+      <Item value="Count" priority="5" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="RemoveAt`0" priority="0" />
+      <Item value="InsertRange`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HOCR.NeuralNetwork">
+      <Item value="Train`0" priority="2" />
+      <Item value="Test`0" priority="2" />
+      <Item value="SaveWeights`0" priority="1" />
+      <Item value="_network" priority="0" />
+      <Item value="Compute`0" priority="4" />
+      <Item value="Error" priority="0" />
+      <Item value="AddToDataSet`0" priority="0" />
+      <Item value="Clone`0" priority="0" />
+      <Item value="Network" priority="0" />
+      <Item value="DataSet" priority="0" />
+      <Item value="TrainState" priority="0" />
+      <Item value="StopTrain`0" priority="1" />
+      <Item value="IterationChanged" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Encog.Neural.NeuralData.INeuralDataSet">
+      <Item value="GetEnumerator`0" priority="1" />
+      <Item value="Add`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Encog.Neural.NeuralData.INeuralDataPair">
+      <Item value="Input" priority="4" />
+      <Item value="Ideal" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Encog.Neural.Networks.Structure.NeuralStructure">
+      <Item value="Flat" priority="2" />
+      <Item value="Network" priority="7" />
+      <Item value="FinalizeStructure`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Encog.Engine.Network.Flat.FlatNetwork">
+      <Item value="Weights" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Byte">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Encog.Neural.Data.INeuralData">
+      <Item value="Data" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Runtime.Serialization.Formatters.Binary.BinaryFormatter">
+      <Item value="Serialize`0" priority="2" />
+      <Item value="Deserialize`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileStream">
+      <Item value="Flush`0" priority="0" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Count" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@HOCR.NeuralNetwork">
+      <Item value="Model" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Size">
+      <Item value="Width" priority="9" />
+      <Item value="Height" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.RichTextBox">
+      <Item value="Location" priority="0" />
+      <Item value="Size" priority="1" />
+      <Item value="Visible" priority="1" />
+      <Item value="Text" priority="9" />
+      <Item value="Select`0" priority="0" />
+      <Item value="SelectionStart" priority="1" />
+      <Item value="AutoSize" priority="0" />
+      <Item value="WordWrap" priority="0" />
+      <Item value="BeginInvoke`0" priority="2" />
+      <Item value="Font" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Encog.Neural.Networks.Training.ITrain">
+      <Item value="Error" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ProgressBar">
+      <Item value="Maximum" priority="5" />
+      <Item value="Validated" priority="0" />
+      <Item value="Value" priority="3" />
+      <Item value="BeginInvoke`0" priority="1" />
+      <Item value="Update`0" priority="1" />
+      <Item value="Minimum" priority="0" />
+      <Item value="Visible" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="DataSource" priority="2" />
+      <Item value="SelectedText" priority="3" />
+      <Item value="SelectedItem" priority="6" />
+      <Item value="Refresh`0" priority="0" />
+      <Item value="Items" priority="4" />
+      <Item value="Text" priority="2" />
+      <Item value="SelectedIndex" priority="1" />
+      <Item value="Invoke`0" priority="1" />
+      <Item value="Select`0" priority="0" />
+      <Item value="BeginInvoke`0" priority="0" />
+      <Item value="Enabled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.DirectoryInfo">
+      <Item value="GetFiles`0" priority="0" />
+      <Item value="Exists" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox+ObjectCollection">
+      <Item value="Add`0" priority="1" />
+      <Item value="Clear`0" priority="0" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="Start`0" priority="2" />
+      <Item value="Abort`0" priority="1" />
+      <Item value="IsAlive" priority="3" />
+      <Item value="ThreadState" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CSPD.CSPD">
+      <Item value="GetCSPDescriptor`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@HOCR.FontActions">
+      <Item value="IsSpace`0" priority="0" />
+      <Item value="Pixels`0" priority="4" />
+      <Item value="ShapeDescriptor`0" priority="4" />
+      <Item value="NumberOfElements`0" priority="0" />
+      <Item value="MakeAllFonts`0" priority="1" />
+      <Item value="MakeFont`0" priority="2" />
+      <Item value="UsePixels" priority="1" />
+      <Item value="UseShapeDescriptor" priority="1" />
+      <Item value="LettersInNetwork" priority="6" />
+      <Item value="LettersOfInitial" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Action`4">
+      <Item value="BeginInvoke`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HOCR.TrainingUC">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HOCR.TrainingUc">
+      <Item value="Show`0" priority="0" />
+      <Item value="Visible" priority="1" />
+      <Item value="Init`0" priority="0" />
+      <Item value="Size" priority="2" />
+      <Item value="Invoke`0" priority="0" />
+      <Item value="Dispose`0" priority="0" />
+      <Item value="Stop" priority="0" />
+      <Item value="Events" priority="0" />
+      <Item value="StopScriptClick`0" priority="1" />
+      <Item value="StopScriptClicked" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Form">
+      <Item value="Controls" priority="1" />
+      <Item value="ShowDialog`0" priority="1" />
+      <Item value="Text" priority="0" />
+      <Item value="AutoSize" priority="0" />
+      <Item value="Size" priority="0" />
+      <Item value="Show`0" priority="1" />
+      <Item value="Close`0" priority="2" />
+      <Item value="Closing" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control+ControlCollection">
+      <Item value="Add`0" priority="1" />
+      <Item value="Remove`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HOCR.TrainArgs">
+      <Item value="Iterations" priority="3" />
+      <Item value="Error" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.EventHandler`1">
+      <Item value="Invoke`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Encog.Neural.Networks.Training.Propagation.Back.Backpropagation">
+      <Item value="Error" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.FileMode">
+      <Item value="Create" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Enabled" priority="11" />
+      <Item value="Visible" priority="11" />
+      <Item value="BeginInvoke`0" priority="1" />
+      <Item value="Location" priority="0" />
+      <Item value="Size" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="NewLine" priority="9" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Action`1">
+      <Item value="Invoke`0" priority="0" />
+      <Item value="BeginInvoke`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="10" />
+      <Item value="SpinWait`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Action">
+      <Item value="BeginInvoke`0" priority="5" />
+      <Item value="Invoke`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.FontFamily">
+      <Item value="Families" priority="9" />
+      <Item value="GenericMonospace" priority="0" />
+      <Item value="GetFamilies`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Font">
+      <Item value="ToString`0" priority="0" />
+      <Item value="ToHfont`0" priority="0" />
+      <Item value="Size" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.FontConverter">
+      <Item value="ConvertTo`0" priority="0" />
+      <Item value="CreateInstance`0" priority="0" />
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.FontFamily">
+      <Item value="ToString`0" priority="0" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Timer">
+      <Item value="Start`0" priority="0" />
+      <Item value="Stop`0" priority="0" />
+      <Item value="Interval" priority="0" />
+      <Item value="Tick" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.FontStyle">
+      <Item value="Bold" priority="5" />
+      <Item value="Regular" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control">
+      <Item value="Parent" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HOCR.ImageFilter">
+      <Item value="GetRotationAngle`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@HOCR.ImageFilter">
+      <Item value="GetRotationAngle`0" priority="0" />
+      <Item value="Rotate`0" priority="0" />
+      <Item value="ThresholdTight" priority="0" />
+      <Item value="ThresholdLoose" priority="0" />
+      <Item value="PerformThreshold`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Func`1">
+      <Item value="BeginInvoke`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Func`2">
+      <Item value="BeginInvoke`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripMenuItem">
+      <Item value="Enabled" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripStatusLabel">
+      <Item value="Text" priority="5" />
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Screen">
+      <Item value="GetWorkingArea`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EyeOpen.Imaging.Processing.SimilarityImages">
+      <Item value="Compare`0" priority="0" />
+      <Item value="Similarity" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EyeOpen.Imaging.Processing.RgbProjections">
+      <Item value="CalculateSimilarity`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@EyeOpen.Imaging.Processing.ImageUtility">
+      <Item value="GetRgbProjections`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FiltersDllDotNet.Filters">
+      <Item value="getVersion`0" priority="0" />
+      <Item value="initialize`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@AForge.Imaging.RGB">
+      <Item value="R" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Image">
+      <Item value="Width" priority="0" />
+      <Item value="SelectActiveFrame`0" priority="0" />
+      <Item value="GetFrameCount`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TSRD.TSRD">
+      <Item value="GetTSRDescriptor`0" priority="2" />
+      <Item value="TrimImage" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Application">
+      <Item value="Run`0" priority="1" />
+      <Item value="Restart`0" priority="3" />
+      <Item value="Exit`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Imaging.PixelFormat">
+      <Item value="Format1bppIndexed" priority="4" />
+      <Item value="Format24bppRgb" priority="2" />
+      <Item value="Format16bppGrayScale" priority="0" />
+      <Item value="Format4bppIndexed" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Encog.Engine.Network.Train.Prop.TrainFlatNetworkProp">
+      <Item value="totalError" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Encog.Engine.Util.ErrorCalculation">
+      <Item value="UpdateError`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ShapeContext.Histogram">
+      <Item value="CreateHistogram`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Graphics">
+      <Item value="DrawImage`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Round`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HOCR.InputBox">
+      <Item value="Show`0" priority="1" />
+      <Item value="DialogResult" priority="1" />
+      <Item value="Result" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.MenuStrip">
+      <Item value="Invoke`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Imaging.FrameDimension">
+      <Item value="Page" priority="10" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HOCR.UnsafeBitmap">
+      <Item value="Bitmap" priority="26" />
+      <Item value="LockBitmap`0" priority="8" />
+      <Item value="_bitmap" priority="0" />
+      <Item value="UnlockBitmap`0" priority="4" />
+      <Item value="SetPixel`0" priority="0" />
+      <Item value="GetPixel`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HOCR.PixelData">
+      <Item value="Blue" priority="1" />
+      <Item value="Green" priority="0" />
+      <Item value="Red" priority="1" />
+      <Item value="R" priority="0" />
+      <Item value="ToColor`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Path">
+      <Item value="GetFileName`0" priority="0" />
+      <Item value="GetFileNameWithoutExtension`0" priority="1" />
+      <Item value="ChangeExtension`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.StatusStrip">
+      <Item value="Invoke`0" priority="2" />
+      <Item value="BeginInvoke`0" priority="1" />
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.OutOfMemoryException">
+      <Item value="Message" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Collections.Generic.List`1">
+      <Item value="Enumerator`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Imaging.PixelFormat">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripProgressBar">
+      <Item value="Visible" priority="1" />
+      <Item value="Style" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.ProgressBarStyle">
+      <Item value="Blocks" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

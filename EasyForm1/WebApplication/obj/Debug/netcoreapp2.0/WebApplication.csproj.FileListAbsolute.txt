@@ -1,0 +1,11 @@
+E:\EasyForm1\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.deps.json
+E:\EasyForm1\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.runtimeconfig.json
+E:\EasyForm1\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.runtimeconfig.dev.json
+E:\EasyForm1\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.dll
+E:\EasyForm1\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.pdb
+E:\EasyForm1\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.csprojAssemblyReference.cache
+E:\EasyForm1\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.csproj.CoreCompileInputs.cache
+E:\EasyForm1\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.AssemblyInfoInputs.cache
+E:\EasyForm1\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.AssemblyInfo.cs
+E:\EasyForm1\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.dll
+E:\EasyForm1\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.pdb

@@ -1,0 +1,16 @@
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\bin\Release\HOCR.exe.config
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\bin\Release\HOCR.exe
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\bin\Release\HOCR.pdb
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\bin\Release\CSPD.dll
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\bin\Release\encog-core-cs.dll
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\bin\Release\log4net.dll
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\bin\Release\Cloo.dll
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Release\ResolveAssemblyReference.cache
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Release\HOCR.InputBox.resources
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Release\HOCR.MainForm.resources
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Release\HOCR.Properties.Resources.resources
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Release\HOCR.TrainingUc.resources
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Release\ResGen.read.1.tlog
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Release\ResGen.write.1.tlog
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Release\HOCR.exe
+\\MAMANIV-PC\Users\Mamaniv.Mamaniv-PC\Documents\Visual Studio 2010\Projects\HOCR\HOCR\obj\x86\Release\HOCR.pdb
