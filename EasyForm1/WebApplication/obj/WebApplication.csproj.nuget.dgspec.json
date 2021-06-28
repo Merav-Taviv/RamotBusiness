@@ -305,13 +305,27 @@
         "netcoreapp2.1": {
           "targetAlias": "netcoreapp2.1",
           "dependencies": {
-            "Microsoft.AspNetCore.All": {
+            "Microsoft.AspNetCore": {
               "target": "Package",
-              "version": "[2.1.14, )"
+              "version": "[2.2.0, )"
             },
-            "Microsoft.EntityFrameworkCore.Design": {
+            "Microsoft.AspNetCore.Hosting.Abstractions": {
               "target": "Package",
-              "version": "[2.1.14, )"
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.14, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
