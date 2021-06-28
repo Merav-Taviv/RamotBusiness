@@ -9,13 +9,27 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="bin\Debug\Font\Manuscript.net" />
+    <Compile Remove="bin\**" />
+    <Compile Remove="Iservice\**" />
+    <Compile Remove="Service\**" />
+    <EmbeddedResource Remove="bin\**" />
+    <EmbeddedResource Remove="Iservice\**" />
+    <EmbeddedResource Remove="Service\**" />
+    <None Remove="bin\**" />
+    <None Remove="Iservice\**" />
+    <None Remove="Service\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="EPPlus" Version="4.5.3.2" />
-    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.1.14" />
-    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="2.1.1" />
+    <Compile Remove="IServiceCollectionExtensions.cs" />
+    <Compile Remove="Utils.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.14">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
   </ItemGroup>
 
   <ItemGroup>

@@ -6,37 +6,37 @@ using Common;
 
 namespace Repository
 {
-    public static class FileMap
+    public static class ProviderMap
     {
-        public static FileCommon MapFilesToFileCommon(Files file)
+        public static ProviderCommon MapProviderToProvierCommon(Provider provider)
         {
-            FileCommon fileCommon = new FileCommon();
-            if (file != null)
+            ProviderCommon providerCommon = new ProviderCommon();
+            if (provider != null)
             {
-                fileCommon.FileId = file.FileId;
-                fileCommon.FileName = file.FileName;
-                fileCommon.FormId = file.FormId;
-                fileCommon.Height = file.Height;
-                fileCommon.Width = file.Width;
-                fileCommon.LocalX = file.LocalX;
-                fileCommon.LocalY = file.LocalY;
+                providerCommon.ProviderName = provider.ProviderName;
+                providerCommon.Neighborhood = provider.Neighborhood;
+                providerCommon.Address = provider.Address;
+                providerCommon.Phone = provider.Phone;
+                providerCommon.Mobile = provider.Mobile;
+                providerCommon.CategoryId = provider.CategoryId;
+                providerCommon.Pictuer = provider.Pictuer;
             }
-            return fileCommon;
+            return providerCommon;
         }
-        public static List<FileCommon> MapListFilesToFileCommon(List<Files> fileList)
+        public static List<ProviderCommon> MapListFilesToFileCommon(List<Provider> providerList)
         {
-            List<FileCommon> fileCommonList = new List<FileCommon>();
-            if (fileCommonList != null)
+            List<ProviderCommon> providerCommonList = new List<ProviderCommon>();
+            if (providerCommonList != null)
             {
-                foreach (Files item in fileList)
+                foreach (Provider item in providerList)
                 {
-                    fileCommonList.Add(MapFilesToFileCommon(item));
+                    providerCommonList.Add(MapFilesToFileCommon(item));
                 }
             }
-            return fileCommonList;
+            return providerCommonList;
         }
 
-        public static Files MapFileCommonToFiles(FileCommon fileCommon)
+        public static Files MapFileCommonToFiles(ProviderCommon fileCommon)
         {
             Files file = new Files();
             if (fileCommon != null)
@@ -51,13 +51,13 @@ namespace Repository
             }
             return file;
         }
-        public static List<Files> MapListFileCommonToFiles(List<FileCommon> fileCommonList)
+        public static List<Files> MapListFileCommonToFiles(List<ProviderCommon> fileCommonList)
         {
             List<Files> fileList = new List<Files>();
             if (fileCommonList != null)
 
             {
-                foreach (FileCommon item in fileCommonList)
+                foreach (ProviderCommon item in fileCommonList)
                 {
                     fileList.Add(MapFileCommonToFiles(item));
                 }

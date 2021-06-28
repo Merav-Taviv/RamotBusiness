@@ -7,66 +7,82 @@ using System.Text;
 
 namespace Repository
 {
-    public class FileRepository : IFileRepository
+    public class ProviderRepository : IProviderRepository
     {
 
-        private Context1 context;
+        private RamotBusinessContext context;
         public void MyProperty()
         {
         }
-        public FileRepository(Context1 context)
+        public ProviderRepository(RamotBusinessContext context)
         {
             this.context = context;
         }
 
-        public FileRepository()
+        public ProviderRepository()
         {
         }
 
-        public void AddFile(Files file)
+        public Boolean AddProvider(Provider provider)
         {
-            context.Files.Add(file);
-            context.SaveChanges();
-        }
-
-        public void UpdateFile(Files file)
-        {
-            Files x = context.Files.Where(a => a.FileId == file.FileId).First();
-            x.FileId = file.FileId;
-            x.FileName = file.FileName;
-            x.LocalX = file.LocalX;
-            x.LocalY = file.LocalY;
-            x.Width = file.Width;
-            x.Height = file.Height;
-            context.Files.Update(x);
-            context.SaveChanges();
-        }
-
-
-        public void DeleteFile(int formID)
-        {
-
-            foreach (Files item in context.Files)
+            if (context.Provider.Contains(provider))
             {
-                if (item.FormId == formID)
+                return false;
+            }
+          
+            context.Provider.Add(provider);
+            return context.SaveChanges() > 0;
+        }
+
+        public void UpdateProvider(Provider provider)
+        {
+            Provider p = context.Provider.Where(a => a.ProviderId == provider.ProviderId).First();
+            p.ProviderName = provider.ProviderName;
+            p.Neighborhood = provider.Neighborhood;
+            p.Address = provider.Address;
+            p.Phone = provider.Phone;
+            p.Mobile = provider.Mobile;
+            p.CategoryId = provider.CategoryId;
+            p.Pictuer = provider.Pictuer;
+            context.Provider.Update(p);
+            context.SaveChanges();
+        }
+
+
+        public void DeleteProvider(int providerId)
+        {
+
+            foreach (Provider item in context.Provider)
+            {
+                if (item.ProviderId == providerId)
                 {
-                    context.Files.Remove(item);
+                    context.Provider.Remove(item);
                 }
             }
             context.SaveChanges();
 
         }
-        public List<FileCommon> GetFilesByForm(int formID)
+        public List<ProviderCommon> GetProviderByCategory(int categoryId)
         {
-            List<Files> FileName = new List<Files>();
-            foreach (Files item in context.Files)
+            List<Provider> ProvidersByCategory = new List<Provider>();
+            foreach (Provider item in context.Provider)
             {
-                if (item.FormId == formID)
+                if (item.CategoryId == categoryId)
                 {
-                    FileName.Add(item);
+                    ProvidersByCategory.Add(item);
                 }
             }
-            return FileMap.MapListFilesToFileCommon( FileName);
+            return ProviderMap.MapListFilesToFileCommon(ProvidersByCategory);
+        }
+
+        void IProviderRepository.AddProvider(Provider provider)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<ProviderCommon> ProvidersByCategory(int providerId)
+        {
+            throw new NotImplementedException();
         }
     }
 }

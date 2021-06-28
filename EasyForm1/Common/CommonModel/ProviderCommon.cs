@@ -6,12 +6,14 @@ namespace Common
 {
     public class ProviderCommon
     {
-        public int FormId { get; set; }
-        public int FileId { get; set; }
-        public string FileName { get; set; }
-        public int LocalX { get; set; }
-        public int LocalY { get; set; }
-        public int Width { get; set; }
-        public int Height { get; set; }
+        public int ProviderId { get; set; }
+        public int ProviderName { get; set; }
+        public string Neighborhood { get; set; }
+        public int Address { get; set; }
+        public int Phone { get; set; }
+        public int Mobile { get; set; }
+        public int CategoryId { get; set; }
+        public string Pictuer { get; set; }
+
     }
 }

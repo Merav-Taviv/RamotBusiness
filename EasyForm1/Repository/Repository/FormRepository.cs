@@ -11,7 +11,7 @@ namespace Repository
 {
     public class FormRepository : IFormRepository
     {
-        FileRepository FileRepository = new FileRepository();
+        ProviderRepository FileRepository = new ProviderRepository();
         private Context1 context;
 
         public FormRepository(Context1 context)
