@@ -17,7 +17,7 @@ namespace Service
             services.AddScoped<IExcelService, ExcelService>();
               //services.AddScoped<IHOCRService, HOCRService>();
             services.AddScoped<IImageService, ImageService>();
-            services.AddScoped<IFileRepository, FileRepository>();
+            services.AddScoped<IFileRepository, ProviderRepository>();
             services.AddScoped<IFormRepository, FormRepository>();
             services.AddScoped<IUserRepository, UserRepository>();
 

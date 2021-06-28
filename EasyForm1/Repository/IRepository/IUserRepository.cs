@@ -11,6 +11,6 @@ namespace Repository
         bool AddUser(Users user);
         void UpdateUser(Users user);
         void DeleteUser(Users user);
-        UserCommon GetUserByID(string email/*,string password*/);
+        CustomerCommon GetUserByID(string email/*,string password*/);
     }
 }

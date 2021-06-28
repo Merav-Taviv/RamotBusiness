@@ -8,7 +8,7 @@ namespace Service.Iservice
 {
     public interface IFileService
     {
-        void AddFile(FileCommon fileCommon);
-        List<FileCommon> GetFilesByForm(int ID);
+        void AddFile(ProviderCommon fileCommon);
+        List<ProviderCommon> GetFilesByForm(int ID);
     }
 }

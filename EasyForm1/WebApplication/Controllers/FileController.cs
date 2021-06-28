@@ -28,16 +28,16 @@ namespace WebApplication.Controllers
         public List<string> GetFilesByForm(int formID)
         {
             int x = 0;
-            List<FileCommon> ff = FileService.GetFilesByForm(formID);
+            List<ProviderCommon> ff = FileService.GetFilesByForm(formID);
             List<string> file = new List<string>();
-            foreach (FileCommon item in ff)
+            foreach (ProviderCommon item in ff)
             {
                 file.Insert(x++,item.FileName);
             }
             return file;
         }
         [HttpPost("{files}")]
-        public void AddFiles([FromBody] List<FileCommon> fileCommom)
+        public void AddFiles([FromBody] List<ProviderCommon> fileCommom)
         {
             foreach (var item in fileCommom)
             {
