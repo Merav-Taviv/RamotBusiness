@@ -14123,24 +14123,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USER1\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\מירב\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER1\\Desktop\\EasyForm1\\WebApplication\\WebApplication.csproj",
+      "projectUniqueName": "C:\\Users\\מירב\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\WebApplication\\WebApplication.csproj",
       "projectName": "WebApplication",
-      "projectPath": "C:\\Users\\USER1\\Desktop\\EasyForm1\\WebApplication\\WebApplication.csproj",
-      "packagesPath": "C:\\Users\\USER1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER1\\Desktop\\EasyForm1\\WebApplication\\obj\\",
+      "projectPath": "C:\\Users\\מירב\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\WebApplication\\WebApplication.csproj",
+      "packagesPath": "C:\\Users\\מירב\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\מירב\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\WebApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\USER1\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\מירב\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -14153,11 +14157,11 @@
         "netcoreapp2.1": {
           "targetAlias": "netcoreapp2.1",
           "projectReferences": {
-            "C:\\Users\\USER1\\Desktop\\EasyForm1\\Common\\Common.csproj": {
-              "projectPath": "C:\\Users\\USER1\\Desktop\\EasyForm1\\Common\\Common.csproj"
+            "C:\\Users\\מירב\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\Common\\Common.csproj": {
+              "projectPath": "C:\\Users\\מירב\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\Common\\Common.csproj"
             },
-            "C:\\Users\\USER1\\Desktop\\EasyForm1\\Service\\Service.csproj": {
-              "projectPath": "C:\\Users\\USER1\\Desktop\\EasyForm1\\Service\\Service.csproj"
+            "C:\\Users\\מירב\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\Service\\Service.csproj": {
+              "projectPath": "C:\\Users\\מירב\\Documents\\GitHub\\RamotBusiness\\EasyForm1\\Service\\Service.csproj"
             }
           }
         }
@@ -14197,7 +14201,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }
