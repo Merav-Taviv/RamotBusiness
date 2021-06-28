@@ -1,4 +1,5 @@
-﻿using Common;
+﻿using AutoMapper;
+using Common;
 using Repository.Models;
 using System;
 using System.Collections.Generic;
@@ -9,32 +10,24 @@ namespace Repository
 {
     public class ProviderRepository : IProviderRepository
     {
-
-        private RamotBusinessContext context;
-        public void MyProperty()
-        {
-        }
-        public ProviderRepository(RamotBusinessContext context)
+        IMapper mapper;
+        RamotBusinessContext context;
+        public ProviderRepository(RamotBusinessContext context, IMapper mapper)
         {
             this.context = context;
+            this.mapper = mapper;
         }
-
-        public ProviderRepository()
-        {
-        }
-
-        public Boolean AddProvider(Provider provider)
+        public bool AddProvider(Provider provider)
         {
             if (context.Provider.Contains(provider))
             {
                 return false;
             }
-          
+
             context.Provider.Add(provider);
             return context.SaveChanges() > 0;
         }
-
-        public void UpdateProvider(Provider provider)
+        public bool UpdateProvider(Provider provider)
         {
             Provider p = context.Provider.Where(a => a.ProviderId == provider.ProviderId).First();
             p.ProviderName = provider.ProviderName;
@@ -44,12 +37,12 @@ namespace Repository
             p.Mobile = provider.Mobile;
             p.CategoryId = provider.CategoryId;
             p.Pictuer = provider.Pictuer;
+            p.Mail = provider.Mail;
+            p.TimeOpen = provider.TimeOpen;
             context.Provider.Update(p);
-            context.SaveChanges();
+            return context.SaveChanges() > 0;
         }
-
-
-        public void DeleteProvider(int providerId)
+        public bool DeleteProvider(int providerId)
         {
 
             foreach (Provider item in context.Provider)
@@ -59,30 +52,33 @@ namespace Repository
                     context.Provider.Remove(item);
                 }
             }
-            context.SaveChanges();
+            return context.SaveChanges() > 0;
 
         }
-        public List<ProviderCommon> GetProviderByCategory(int categoryId)
+        public List<ProviderCommon> GetProvidersByCategory(int categoryId)
         {
-            List<Provider> ProvidersByCategory = new List<Provider>();
+            List<Provider> listProvidersByCategory = new List<Provider>();
             foreach (Provider item in context.Provider)
             {
                 if (item.CategoryId == categoryId)
                 {
-                    ProvidersByCategory.Add(item);
+                    listProvidersByCategory.Add(item);
                 }
             }
-            return ProviderMap.MapListFilesToFileCommon(ProvidersByCategory);
+            return mapper.Map<List<ProviderCommon>>(listProvidersByCategory);
+        }
+        public List<ProviderCommon> GetProvidersByNeighborhood(string neighborhood)
+        {
+            List<Provider> listProviderByNeighborhood = new List<Provider>();
+            foreach (Provider item in context.Provider)
+            {
+                if (item.Neighborhood.Equals(neighborhood))
+                {
+                    listProviderByNeighborhood.Add(item);
+                }
+            }
+            return mapper.Map<List<ProviderCommon>>(listProviderByNeighborhood);
         }
 
-        void IProviderRepository.AddProvider(Provider provider)
-        {
-            throw new NotImplementedException();
-        }
-
-        public List<ProviderCommon> ProvidersByCategory(int providerId)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

@@ -10,22 +10,12 @@
 
   <ItemGroup>
     <Compile Remove="bin\**" />
-    <Compile Remove="Iservice\**" />
-    <Compile Remove="Service\**" />
     <EmbeddedResource Remove="bin\**" />
-    <EmbeddedResource Remove="Iservice\**" />
-    <EmbeddedResource Remove="Service\**" />
     <None Remove="bin\**" />
-    <None Remove="Iservice\**" />
-    <None Remove="Service\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Remove="IServiceCollectionExtensions.cs" />
-    <Compile Remove="Utils.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.14">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>

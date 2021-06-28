@@ -11,7 +11,7 @@ namespace Repository
     {
         public static IServiceCollection AddRepositories(this IServiceCollection services)
         {
-            services.AddDbContext<Context1>(options =>
+            services.AddDbContext<RamotBusinessContext>(options =>
             options.UseSqlServer(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=F:\Project\EasyForm1\DB\Database1.mdf;Integrated Security=True;Connect Timeout=30"));
             return services;
         }

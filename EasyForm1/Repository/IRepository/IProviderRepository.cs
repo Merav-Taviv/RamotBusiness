@@ -8,9 +8,11 @@ namespace Repository
 {
     public interface IProviderRepository
     {
-        void AddProvider(Provider provider);
-        void UpdateProvider(Provider provider);
-        void DeleteProvider(int providerId);
-        List<ProviderCommon> ProvidersByCategory(int providerId);
+        bool AddProvider(Provider provider);
+        bool UpdateProvider(Provider provider);
+        bool DeleteProvider(int providerId);
+        List<ProviderCommon> GetProvidersByCategory(int categoryId);
+        List<ProviderCommon> GetProvidersByNeighborhood(string neighborhood);
+
     }
 }

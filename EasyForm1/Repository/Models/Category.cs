@@ -9,8 +9,18 @@ namespace Repository.Models
 {
     public partial class Category
     {
+        public Category()
+        {
+            ProviderNavigation = new HashSet<Provider>();
+            SubCategory = new HashSet<SubCategory>();
+        }
+
         public int CategoryId { get; set; }
         public int CategoryName { get; set; }
         public int ProviderId { get; set; }
+
+        public virtual Provider Provider { get; set; }
+        public virtual ICollection<Provider> ProviderNavigation { get; set; }
+        public virtual ICollection<SubCategory> SubCategory { get; set; }
     }
 }

@@ -1,4 +1,4 @@
-﻿using Common.CommonModel;
+﻿using Common;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -7,8 +7,8 @@ using System.Text;
 
 namespace Service.Iservice
 {
-    public interface IExcelService
+    public interface IProviderService
     {
-       void ExcelAB( ExcelData excelData);
+       
     }
 }

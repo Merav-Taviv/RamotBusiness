@@ -39,6 +39,12 @@ namespace Repository.Models
             modelBuilder.Entity<Category>(entity =>
             {
                 entity.Property(e => e.CategoryId).ValueGeneratedNever();
+
+                entity.HasOne(d => d.Provider)
+                    .WithMany(p => p.Category)
+                    .HasForeignKey(d => d.ProviderId)
+                    .OnDelete(DeleteBehavior.ClientSetNull)
+                    .HasConstraintName("FK_Category_ToTable");
             });
 
             modelBuilder.Entity<Customer>(entity =>
@@ -62,10 +68,26 @@ namespace Repository.Models
                 entity.Property(e => e.FeekbackId).ValueGeneratedNever();
 
                 entity.Property(e => e.Star).HasColumnName("star");
+
+                entity.HasOne(d => d.Customer)
+                    .WithMany(p => p.Feedback)
+                    .HasForeignKey(d => d.CustomerId)
+                    .OnDelete(DeleteBehavior.ClientSetNull)
+                    .HasConstraintName("FK_Feedback_ToTable_1");
+
+                entity.HasOne(d => d.Provider)
+                    .WithMany(p => p.Feedback)
+                    .HasForeignKey(d => d.ProviderId)
+                    .OnDelete(DeleteBehavior.ClientSetNull)
+                    .HasConstraintName("FK_Feedback_ToTable");
             });
 
             modelBuilder.Entity<Provider>(entity =>
             {
+                entity.Property(e => e.Mail)
+                    .IsRequired()
+                    .HasMaxLength(50);
+
                 entity.Property(e => e.Neighborhood)
                     .IsRequired()
                     .HasMaxLength(50);
@@ -73,6 +95,16 @@ namespace Repository.Models
                 entity.Property(e => e.Pictuer)
                     .IsRequired()
                     .HasMaxLength(50);
+
+                entity.Property(e => e.TimeOpen)
+                    .IsRequired()
+                    .HasMaxLength(50);
+
+                entity.HasOne(d => d.CategoryNavigation)
+                    .WithMany(p => p.ProviderNavigation)
+                    .HasForeignKey(d => d.CategoryId)
+                    .OnDelete(DeleteBehavior.ClientSetNull)
+                    .HasConstraintName("FK_Provider_ToTable");
             });
 
             modelBuilder.Entity<SubCategory>(entity =>
@@ -82,6 +114,12 @@ namespace Repository.Models
                 entity.Property(e => e.SubCategoryName)
                     .IsRequired()
                     .HasMaxLength(50);
+
+                entity.HasOne(d => d.Category)
+                    .WithMany(p => p.SubCategory)
+                    .HasForeignKey(d => d.CategoryId)
+                    .OnDelete(DeleteBehavior.ClientSetNull)
+                    .HasConstraintName("FK_SubCategory_ToTable");
             });
 
             OnModelCreatingPartial(modelBuilder);

@@ -12,7 +12,7 @@ using System.Text;
 
 namespace Service.Service
 {
-    class ExcelService : IExcelService
+    class ExcelService : IProviderService
     {
         private IFileRepository repository;
         public ExcelService(IFileRepository repository)

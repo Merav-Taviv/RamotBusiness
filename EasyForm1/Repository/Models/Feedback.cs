@@ -13,5 +13,8 @@ namespace Repository.Models
         public int Star { get; set; }
         public int ProviderId { get; set; }
         public int CustomerId { get; set; }
+
+        public virtual Customer Customer { get; set; }
+        public virtual Provider Provider { get; set; }
     }
 }

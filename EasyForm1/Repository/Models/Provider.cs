@@ -9,6 +9,12 @@ namespace Repository.Models
 {
     public partial class Provider
     {
+        public Provider()
+        {
+            Category = new HashSet<Category>();
+            Feedback = new HashSet<Feedback>();
+        }
+
         public int ProviderId { get; set; }
         public int ProviderName { get; set; }
         public string Neighborhood { get; set; }
@@ -17,5 +23,11 @@ namespace Repository.Models
         public int Mobile { get; set; }
         public int CategoryId { get; set; }
         public string Pictuer { get; set; }
+        public string Mail { get; set; }
+        public string TimeOpen { get; set; }
+
+        public virtual Category CategoryNavigation { get; set; }
+        public virtual ICollection<Category> Category { get; set; }
+        public virtual ICollection<Feedback> Feedback { get; set; }
     }
 }

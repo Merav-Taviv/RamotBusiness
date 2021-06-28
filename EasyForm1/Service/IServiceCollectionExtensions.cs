@@ -13,8 +13,8 @@ namespace Service
         {
             services.AddScoped<IFileService, FileService>();
             services.AddScoped<IFormService, FormService>();
-            services.AddScoped<IUserService, UserService>();
-            services.AddScoped<IExcelService, ExcelService>();
+            services.AddScoped<IUserService, ProviderService>();
+            services.AddScoped<IProviderService, ExcelService>();
               //services.AddScoped<IHOCRService, HOCRService>();
             services.AddScoped<IImageService, ImageService>();
             services.AddScoped<IFileRepository, ProviderRepository>();
